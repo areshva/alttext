@@ -1,0 +1,11 @@
+Category	Frequency
+Colors and Descriptions	942
+Astronomical Terms	937
+Visualization Elements	669
+Spatial Directions and Positions	644
+Text and Labels	359
+Other Terms	308
+Direction and Movement	239
+Telescope and Instrument Names	206
+Quantitative Terms	187
+Measurement and Data	159

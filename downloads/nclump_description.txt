@@ -1,0 +1,637 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta http-equiv="description"
+      content="A collection of images taken by the Chandra X-ray Observatory, including image descriptions, constellations, an X-ray sky map and comparisons with images in other wavelengths such as optical, radio and infrared." />
+      <title>
+         Chandra :: Photo Album :: Chandra Images with Visual Descriptions
+      </title>
+      <link rel="stylesheet" type="text/css" media="screen" href="/incl/css/swiss_army.css" title="normal" />
+<link rel="stylesheet" type="text/css" media="screen" href="/incl/css/cxcpub_ws.css" title="normal" />
+<link rel="alternate stylesheet" type="text/css" media="screen" href="/incl/css/large.css" title="large" />
+<link rel="alternate stylesheet" type="text/css" media="screen" href="/incl/css/larger.css" title="larger" />
+<link rel="stylesheet" type="text/css" media="print" href="/incl/css/cxcpub_print.css" />
+<style type="text/css">
+.page_image {
+padding:2px;
+}
+</style>
+   </head>
+
+  <body>
+<div id="wrapper">
+<div id="content_wrapper">
+  <!--<div id="skip"><a href="#content">Skip to Main Content</a></div> -->
+<!-- *********************************Start Menu****************************** -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-59094857-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<div id="header" style="position:relative;">
+<div style="position:absolute; top:0px; left:0px; width:360px; height:130px;"><a href="/index.html"><img src="/graphics/top/wsn/chandra_head.gif" alt="NASA" width="360" height="130" border="0" /></a></div>
+NASA's flagship mission for X-ray astronomy. 
+
+<div style="position:absolute; top:-2px; left:892px; width:76px; height:63px;"><a href="http://www.nasa.gov" target="_blank"><img src="/graphics/top/wsn/nasa_logo.png" alt="NASA" width="76" height="63" border="0" /></a></div>
+   <div style="position:absolute; top:65px; left:769px; ">
+
+<div style="float:left; width:100%; padding-top:7px;">
+<div id='cse-search-form' style='width: 100%;'></div>
+
+<div style="float:left;">
+<form name="cse" id="searchbox" action="https://chandra.si.edu/search_results.html" method="get">
+<input type="hidden" name="cx" value="003361757393431828308:zeyfbwu-qxa" /><!-- Replace YOUR_CSEID with your CSE ID (!) -->
+<input type="hidden" name="ie" value="utf-8" />
+<input type="hidden" name="hl" value="en" />
+
+<input name="q" type="text" title="Search..."/>
+
+<div style="float:right;">
+<input value="Go" type="image" src="/graphics/search_button_mag.jpg" width="25px" height="25px" name="sa" alt="search button image"/></div>
+</form>
+</div>
+<style type='text/css'>
+  input[type=text]{
+    border: 1px solid #96a8be;
+	padding: 0px 7px;
+  
+	width:160px;
+	height:23px;
+	background-color: #e9eef4;
+	
+	font-family:Candara, Arial, sans-serif;
+    font-size:12px;
+    line-height:12px;
+}
+
+  
+</style>
+</div>
+
+</div>
+   </div>
+
+
+
+    
+    <div id="bottom_nav">
+	<ul id="bnav_list">
+	<li id="bnav_home"><a href="/">Home</a></li>
+		<li id="bnav_about_chandra"><a href="/about/">About Chandra</a></li>
+		<li id="bnav_education"><a href="/edu/">Education</a></li>
+		<li id="bnav_field_guide"><a href="/field_guide.html">Field Guide</a></li>
+		<li id="bnav_photo_album_current"><a href="/photo/">Photo Album</a></li>
+		<li id="bnav_press_room"><a href="/press/">Press Room</a></li>
+		<li id="bnav_resources"><a href="/resources/">Resources & Multimedia</a></li>
+		<!--<li id="bnav_multimedia"><a href="/resources/illustrations.html">Multimedia</a></li>-->
+		<li id="bnav_podcasts"><a href="/resources/podcasts/">Video Series</a></li>
+		<li id="bnav_blog"><a href="/blog/">Blog</a></li>
+		<li id="bnav_research"><a href="/cxc/">Research</a></li>
+		
+	</ul>
+    </div>
+<!-- *********************************End Menu****************************** --><div id="main_content">
+<div id="left_nav">
+<div id="sec_left_top_title"><span class="subtitle">Images by Date</span><script type="text/javascript">
+<!--//
+document.write('<div style="padding-right:12px; padding-top:3px; float:right; width:10px;"><a href="javascript::" onclick="showHide_about(\'item1\', \'button1\');" title="Show/hide items"><img src="/graphics/top/wsn/minus_blue.jpg" border="0" id="button1" name="button1" /></a></div>');
+//-->
+</script></div>
+          
+<script type="text/javascript">
+<!--//
+document.write('<div id="item1">');
+//-->
+</script>
+
+<div style="padding-left:14px; padding-top:45px; padding-bottom:10px; background-color:#eaeff5; color:#676664; width:190px;">
+	<span class="side_menu">
+ 		<div class="subMenu">
+		<a href="/photo/chronological.html">2023</a>&nbsp;&nbsp;&nbsp;&nbsp
+		<a href="/photo/chronological22.html">2022</a>&nbsp;&nbsp;&nbsp;&nbsp
+		<a href="/photo/chronological21.html">2021</a>&nbsp;&nbsp;&nbsp;&nbsp
+		<a href="/photo/chronological20.html">2020</a><br />
+		<a href="/photo/chronological19.html">2019</a>&nbsp;&nbsp;&nbsp;&nbsp
+     		<a href="/photo/chronological18.html">2018</a>&nbsp;&nbsp;&nbsp;&nbsp
+			<a href="/photo/chronological17.html">2017</a>&nbsp;&nbsp;&nbsp;&nbsp
+		   <a href="/photo/chronological16.html">2016</a><br />
+			<a href="/photo/chronological15.html">2015</a>&nbsp;&nbsp;&nbsp;&nbsp
+			<a href="/photo/chronological14.html">2014</a>&nbsp;&nbsp;&nbsp;&nbsp
+			<a href="/photo/chronological13.html">2013</a>&nbsp;&nbsp;&nbsp;&nbsp
+			<a href="/photo/chronological12.html">2012</a><br />
+<a href="/photo/chronological11.html">2011</a>&nbsp;&nbsp;&nbsp;&nbsp
+<a href="/photo/chronological10.html">2010</a>&nbsp;&nbsp;&nbsp;&nbsp
+<a href="/photo/chronological09.html">2009</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/photo/chronological08.html">2008</a><br />
+            <a href="/photo/chronological07.html">2007</a>&nbsp;&nbsp;&nbsp;&nbsp
+            <a href="/photo/chronological06.html">2006</a>&nbsp;&nbsp;&nbsp;&nbsp
+			<a href="/photo/chronological05.html">2005</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="/photo/chronological04.html">2004</a><br />
+<a href="/photo/chronological03.html">2003</a>&nbsp;&nbsp;&nbsp;&nbsp
+<a href="/photo/chronological02.html">2002</a>&nbsp;&nbsp;&nbsp;&nbsp
+<a href="/photo/chronological01.html">2001</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/photo/chronological00.html">2000</a><br />
+            <a href="/photo/chronological99.html">1999</a>&nbsp;&nbsp;&nbsp;&nbsp
+		</div>
+	</span>
+</div>
+
+<script type="text/javascript">
+<!--//
+document.write('</div>');
+//-->
+</script>
+
+<div id="sec_left_title"><span class="subtitle">Images by Category</span><script type="text/javascript">
+<!--//
+document.write('<div style="padding-right:12px; padding-top:3px; float:right; width:10px;"><a href="javascript::" onclick="showHide_about(\'item2\', \'button2\');" title="Show/hide items"><img src="/graphics/top/wsn/minus_blue.jpg" border="0" id="button2" name="button2" /></a></div>');
+//-->
+</script></div>
+          
+<script type="text/javascript">
+<!--//
+document.write('<div id="item2">');
+//-->
+</script>
+<div style="padding-left:14px; padding-top:45px; padding-bottom:10px; background-color:#eaeff5; color:#676664; width:190px;">
+<span class="side_menu">
+
+<a href="/photo/category/solarsystem.html">Solar System</a><br />
+<a href="/photo/category/stars.html">Stars</a><br />
+<a href="/photo/category/exoplanet.html">Exoplanets</a><br />
+<a href="/photo/category/whitedwarf_pne.html">White Dwarfs</a><br />
+<a href="/photo/category/snr.html">Supernovas</a><br />
+<a href="/photo/category/neutronstars.html">Neutron Stars</a><br />
+<a href="/photo/category/blackholes.html">Black Holes</a><br />
+<a href="/photo/category/milkyway.html">Milky Way Galaxy</a><br />
+<a href="/photo/category/galaxies.html">Normal Galaxies</a><br />
+<a href="/photo/category/quasars.html">Quasars</a><br />
+<a href="/photo/category/galaxyclusters.html">Galaxy Clusters</a><br />
+<a href="/photo/category/background.html">Cosmology/Deep Field</a><br />
+<a href="/photo/category/misc.html">Miscellaneous</a>
+</span>
+</div>
+<script type="text/javascript">
+<!--//
+document.write('</div>');
+//-->
+</script>
+
+
+<div id="sec_left_title2"><span class="subtitle">Images by Interest</span><script type="text/javascript">
+<!--//
+document.write('<div style="padding-right:12px; padding-top:3px; float:right; width:10px;"><a href="javascript::" onclick="showHide_about(\'item4\', \'button4\');" title="Show/hide items"><img src="/graphics/top/wsn/minus_blue.jpg" border="0" id="button4" name="button4" /></a></div>');
+//-->
+</script></div>
+          
+<script type="text/javascript">
+<!--//
+document.write('<div id="item4">');
+//-->
+</script>
+<div style="padding-left:14px; padding-top:45px; padding-bottom:10px; background-color:#eaeff5; color:#676664; width:190px;">
+<span class="side_menu">
+
+<a href="/photo/kids_images.html">Space Scoop for Kids</a><br />
+<a href="/photo/4k_images.html">4K JPG</a><br />
+<a href="/photo/multi.html">Multiwavelength</a><br />
+<a href="/photo/map/index.html">Sky Map</a><br />
+<a href="/photo/constellations/index.html">Constellations</a><br />
+<a href="/blog/big_picture.html">Photo Blog</a><br />
+<a href="/photo/top_rate.html">Top Rated Images</a><br />
+<a href="/photo/handout.html">Image Handouts</a><br />
+<a href="/resources/desktops.html">Desktops</a><br />
+<a href="/photo/openFITS/">Fits Files</a><br />
+</span>
+</div>
+<script type="text/javascript">
+<!--//
+document.write('</div>');
+//-->
+</script>
+
+<div id="sec_left_title3"><span class="subtitle">Image Tutorials</span><script type="text/javascript">
+<!--//
+document.write('<div style="padding-right:12px; padding-top:3px; float:right; width:10px;"><a href="javascript::" onclick="showHide_about(\'item5\', \'button5\');" title="Show/hide items"><img src="/graphics/top/wsn/minus_blue.jpg" border="0" id="button5" name="button5" /></a></div>');
+//-->
+</script></div>
+          
+<script type="text/javascript">
+<!--//
+document.write('<div id="item5">');
+//-->
+</script>
+<div style="padding-left:14px; padding-top:45px; padding-bottom:10px; background-color:#eaeff5; color:#676664; width:190px; border-bottom-color:#bbc0c6; border-bottom-width:1px; border-bottom-style:solid;">
+<span class="side_menu">
+
+<a href="/photo/tutorial.html">Photo Album Tutorial</a><br />
+<a href="/photo/false_color.html">False Color</a><br />
+<a href="/photo/cosmic_distance.html">Cosmic Distance</a><br />
+<a href="/photo/cosmic_lookback.html">Look-Back Time</a><br />
+<a href="/photo/scale_distance.html">Scale & Distance</a><br />
+<a href="/photo/scale.html">Angular Measurement</a><br />
+<a href="/photo/image_processing_notes.html">Images & Processing</a><br />
+<a href="/photo/avm.html">AVM/Metadata</a><br />
+</span>
+</div>
+<script type="text/javascript">
+<!--//
+document.write('</div>');
+//-->
+</script>
+<div style="padding-left:14px; padding-top:10px; padding-bottom:10px; background-color:#eaeff5; color:#676664; width:190px;">
+<span class="side_menu">
+<a href="/photo/image_use.html">Image Use Policy</a> </span>
+</div>
+
+ <script type="text/javascript" language="javascript" src="/incl/scripts/show_hide.js"></script><div id="sec_left_short"><span class="subtitle">Web Shortcuts</span><script type="text/javascript">
+<!--//
+document.write('<div style="padding-right:12px; padding-top:3px; float:right; width:10px;"><a href="javascript::" onclick="showHide_aboutgray(\'item3\', \'button3\');" title="Show/hide items"><img src="/graphics/top/wsn/minus_gray.jpg" border="0" id="button3" name="button3"  alt="Open and close menu tab" /></a></div>');
+//-->
+</script></div>
+          
+<script type="text/javascript">
+<!--//
+document.write('<div id="item3">');
+//-->
+</script>
+<div style="padding-left:14px; padding-top:45px; padding-bottom:10px; background-color:#cccccc; color:#676664; width:190px; border-bottom-color:#bbc0c6; border-bottom-width:1px; border-bottom-style:solid;">
+<span class="side_menu">
+<a href="/blog/">Chandra Blog</a><br />
+<a href="/resources/feeds.html">RSS Feed</a><br />
+<a href="/chronicle/index.html">Chronicle</a><br />
+<a href="/chronicle/news_priv.html">Email Newsletter</a><br />
+<a href="/new.html">News & Noteworthy</a><br />
+<a href="/photo/image_use.html">Image Use Policy</a><br />
+<a href="/resources/faq/index.html">Questions & Answers</a><br />
+<a href="/resources/glossaryA.html">Glossary of Terms</a><br />
+<a href="/downloads.html">Download Guide</a><br />
+<a href="http://get.adobe.com/reader/">Get Adobe Reader</a> </span>
+</div>
+<script type="text/javascript">
+<!--//
+document.write('</div>');
+//-->
+</script></div>
+
+<div id="content">
+		<span class="page_title">Chandra Images with Visual Descriptions</span>
+
+<p>&nbsp;</p>
+
+<!-- Eta Carinae -->
+<a name="etacar" ></a><img src="/photo/2023/etacar/etacar_thm.jpg" width="75" height="75" border="0" alt="Eta Carinae" align="left" />&nbsp;<span class="bold">Eta Carinae</span><br />&nbsp;&nbsp; <a href="/photo/2023/etacar/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/etacar/etacar_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/etacar/etacar_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Chandra Archive Collection -->
+<a name="archives" ></a><img src="/photo/2023/archives/archives_thm.jpg" width="75" height="75" border="0" alt="Chandra Archive Collection" align="left" />&nbsp;<span class="bold">Chandra Archive Collection</span><br />&nbsp;&nbsp; <a href="/photo/2023/archives/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/archives/archives_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/archives/archives_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- ASASSN-14li -->
+<a name="tde" ></a><img src="/photo/2023/tde/tde_thm.jpg" width="75" height="75" border="0" alt="ASASSN-14li" align="left" />&nbsp;<span class="bold">ASASSN-14li</span><br />&nbsp;&nbsp; <a href="/photo/2023/tde/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/tde/tde_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/tde/tde_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- El Gordo -->
+<a name="elgordo" ></a><img src="/photo/2023/elgordo/elgordo_thm.jpg" width="75" height="75" border="0" alt="El Gordo" align="left" />&nbsp;<span class="bold">El Gordo</span><br />&nbsp;&nbsp; <a href="/photo/2023/elgordo/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/elgordo/elgordo_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/elgordo/elgordo_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- SPT-CL J2215-3537 -->
+<a name="spt2215" ></a><img src="/photo/2023/spt2215/spt2215_thm.jpg" width="75" height="75" border="0" alt="SPT-CL J2215-3537" align="left" />&nbsp;<span class="bold">SPT-CL J2215-3537</span><br />&nbsp;&nbsp; <a href="/photo/2023/spt2215/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/spt2215/spt2215_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/spt2215/spt2215_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Sagittarius A* -->
+<a name="gcenter" ></a><img src="/photo/2023/gcenter/gcenter_thm.jpg" width="75" height="75" border="0" alt="Sagittarius A*" align="left" />&nbsp;<span class="bold">Sagittarius A*</span><br />&nbsp;&nbsp; <a href="/photo/2023/gcenter/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/gcenter/gcenter_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/gcenter/gcenter_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Sonification Collection -->
+<a name="sonify7" ></a><img src="/photo/2023/sonify7/sonify7_thm.jpg" width="75" height="75" border="0" alt="Sonification Collection" align="left" />&nbsp;<span class="bold">Sonification Collection</span><br />&nbsp;&nbsp; <a href="/photo/2023/sonify7/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/sonify7/sonify7_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/sonify7/sonify7_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- NGC 4839 -->
+<a name="ngc4839" ></a><img src="/photo/2023/ngc4839/ngc4839_thm.jpg" width="75" height="75" border="0" alt="NGC 4839" align="left" />&nbsp;<span class="bold">NGC 4839</span><br />&nbsp;&nbsp; <a href="/photo/2023/ngc4839/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/ngc4839/ngc4839_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/ngc4839/ngc4839_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Chandra and Webb -->
+<a name="chandrawebb2" ></a><img src="/photo/2023/chandrawebb2/chandrawebb2_thm.jpg" width="75" height="75" border="0" alt="Chandra and Webb" align="left" />&nbsp;<span class="bold">Chandra and Webb</span><br />&nbsp;&nbsp; <a href="/photo/2023/chandrawebb2/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/chandrawebb2/chandrawebb2_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/chandrawebb2/chandrawebb2_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- M84 -->
+<a name="m84" ></a><img src="/photo/2023/m84/m84_thm.jpg" width="75" height="75" border="0" alt="M84" align="left" />&nbsp;<span class="bold">M84</span><br />&nbsp;&nbsp; <a href="/photo/2023/m84/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/m84/m84_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/m84/m84_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Centaurus A -->
+<a name="cena" ></a><img src="/photo/2023/cena/cena_thm.jpg" width="75" height="75" border="0" alt="Centaurus A" align="left" />&nbsp;<span class="bold">Centaurus A</span><br />&nbsp;&nbsp; <a href="/photo/2023/cena/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/cena/cena_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/cena/cena_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Supernova Survey -->
+<a name="4snr" ></a><img src="/photo/2023/4snr/4snr_thm.jpg" width="75" height="75" border="0" alt="Supernova Survey" align="left" />&nbsp;<span class="bold">Supernova Survey</span><br />&nbsp;&nbsp; <a href="/photo/2023/4snr/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/4snr/4snr_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/4snr/4snr_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- NGC 253 -->
+<a name="ngc253" ></a><img src="/photo/2023/ngc253/ngc253_thm.jpg" width="75" height="75" border="0" alt="NGC 253" align="left" />&nbsp;<span class="bold">NGC 253</span><br />&nbsp;&nbsp; <a href="/photo/2023/ngc253/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/ngc253/ngc253_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/ngc253/ngc253_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- 3C 297 -->
+<a name="3c297" ></a><img src="/photo/2023/3c297/3c297_thm.jpg" width="75" height="75" border="0" alt="3C 297" align="left" />&nbsp;<span class="bold">3C 297</span><br />&nbsp;&nbsp; <a href="/photo/2023/3c297/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/3c297/3c297_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/3c297/3c297_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Tycho's Supernova Remnant -->
+<a name="tycho" ></a><img src="/photo/2023/tycho/tycho_thm.jpg" width="75" height="75" border="0" alt="Tycho's Supernova Remnant" align="left" />&nbsp;<span class="bold">Tycho's Supernova Remnant</span><br />&nbsp;&nbsp; <a href="/photo/2023/tycho/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/tycho/tycho_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/tycho/tycho_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Black Hole Pairs -->
+<a name="bh_pairs" ></a><img src="/photo/2023/bh_pairs/bh_pairs_thm.jpg" width="75" height="75" border="0" alt="Black Hole Pairs" align="left" />&nbsp;<span class="bold">Black Hole Pairs</span><br />&nbsp;&nbsp; <a href="/photo/2023/bh_pairs/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/bh_pairs/bh_pairs_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/bh_pairs/bh_pairs_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Abell 2256 -->
+<a name="a2256" ></a><img src="/photo/2023/a2256/a2256_thm.jpg" width="75" height="75" border="0" alt="Abell 2256" align="left" />&nbsp;<span class="bold">Abell 2256</span><br />&nbsp;&nbsp; <a href="/photo/2023/a2256/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/a2256/a2256_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/a2256/a2256_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- XBONGS -->
+<a name="xbongs" ></a><img src="/photo/2023/xbongs/xbongs_thm.jpg" width="75" height="75" border="0" alt="XBONGS" align="left" />&nbsp;<span class="bold">XBONGS</span><br />&nbsp;&nbsp; <a href="/photo/2023/xbongs/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/xbongs/xbongs_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/xbongs/xbongs_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Tarantula Nebula -->
+<a name="30dor" ></a><img src="/photo/2023/30dor/30dor_thm.jpg" width="75" height="75" border="0" alt="Tarantula Nebula" align="left" />&nbsp;<span class="bold">Tarantula Nebula</span><br />&nbsp;&nbsp; <a href="/photo/2023/30dor/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/30dor/30dor_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2023/30dor/30dor_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- NGC 3293 -->
+<a name="ngc3293" ></a><img src="/photo/2022/ngc3293/ngc3293_thm.jpg" width="75" height="75" border="0" alt="NGC 3293" align="left" />&nbsp;<span class="bold">NGC 3293</span><br />&nbsp;&nbsp; <a href="/photo/2022/ngc3293/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/ngc3293/ngc3293_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/ngc3293/ngc3293_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- RCW 36 -->
+<a name="rcw36" ></a><img src="/photo/2022/rcw36/rcw36_thm.jpg" width="75" height="75" border="0" alt="RCW 36" align="left" />&nbsp;<span class="bold">RCW 36</span><br />&nbsp;&nbsp; <a href="/photo/2022/rcw36/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/rcw36/rcw36_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/rcw36/rcw36_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- V404 Cygni -->
+<a name="sonify6" ></a><img src="/photo/2022/sonify6/sonify6_thm.jpg" width="75" height="75" border="0" alt="V404 Cygni" align="left" />&nbsp;<span class="bold">V404 Cygni</span><br />&nbsp;&nbsp; <a href="/photo/2022/sonify6/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/sonify6/sonify6_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/sonify6/sonify6_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Hot Jupiters -->
+<a name="hotjupiters" ></a><img src="/photo/2022/hotjupiters/hotjupiters_thm.jpg" width="75" height="75" border="0" alt="Hot Jupiters" align="left" />&nbsp;<span class="bold">Hot Jupiters</span><br />&nbsp;&nbsp; <a href="/photo/2022/hotjupiters/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/hotjupiters/hotjupiters_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/hotjupiters/hotjupiters_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Cassiopeia A -->
+<a name="casa_streams" ></a><img src="/photo/2022/casa_streams/casa_streams_thm.jpg" width="75" height="75" border="0" alt="Cassiopeia A" align="left" />&nbsp;<span class="bold">Cassiopeia A</span><br />&nbsp;&nbsp; <a href="/photo/2022/casa_streams/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/casa_streams/casa_streams_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/casa_streams/casa_streams_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Abell 98 -->
+<a name="a98" ></a><img src="/photo/2022/a98/a98_thm.jpg" width="75" height="75" border="0" alt="Abell 98" align="left" />&nbsp;<span class="bold">Abell 98</span><br />&nbsp;&nbsp; <a href="/photo/2022/a98/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/a98/a98_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/a98/a98_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Chandra and Webb -->
+<a name="chandrawebb" ></a><img src="/photo/2022/chandrawebb/chandrawebb_thm.jpg" width="75" height="75" border="0" alt="Chandra and Webb" align="left" />&nbsp;<span class="bold">Chandra and Webb</span><br />&nbsp;&nbsp; <a href="/photo/2022/chandrawebb/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/chandrawebb/chandrawebb_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/chandrawebb/chandrawebb_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- SNR 0519-69.0 -->
+<a name="snr0519" ></a><img src="/photo/2022/snr0519/snr0519_thm.jpg" width="75" height="75" border="0" alt="SNR 0519-69.0" align="left" />&nbsp;<span class="bold">SNR 0519-69.0</span><br />&nbsp;&nbsp; <a href="/photo/2022/snr0519/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/snr0519/snr0519_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/snr0519/snr0519_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- NGC 4424 -->
+<a name="ngc4424" ></a><img src="/photo/2022/ngc4424/ngc4424_thm.jpg" width="75" height="75" border="0" alt="NGC 4424" align="left" />&nbsp;<span class="bold">NGC 4424</span><br />&nbsp;&nbsp; <a href="/photo/2022/ngc4424/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/ngc4424/ngc4424_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/ngc4424/ngc4424_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- G292.0+1.8 -->
+<a name="g292" ></a><img src="/photo/2022/g292/g292_thm.jpg" width="75" height="75" border="0" alt="G292.0+1.8" align="left" />&nbsp;<span class="bold">G292.0+1.8</span><br />&nbsp;&nbsp; <a href="/photo/2022/g292/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/g292/g292_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/g292/g292_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Abell 2146 -->
+<a name="a2146" ></a><img src="/photo/2022/a2146/a2146_thm.jpg" width="75" height="75" border="0" alt="Abell 2146" align="left" />&nbsp;<span class="bold">Abell 2146</span><br />&nbsp;&nbsp; <a href="/photo/2022/a2146/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/a2146/a2146_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/a2146/a2146_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Sagittarius A* -->
+<a name="sgra" ></a><img src="/photo/2022/sgra/sgra_thm.jpg" width="75" height="75" border="0" alt="Sagittarius A*" align="left" />&nbsp;<span class="bold">Sagittarius A*</span><br />&nbsp;&nbsp; <a href="/photo/2022/sgra/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/sgra/sgra_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/sgra/sgra_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Sonification Collection -->
+<a name="sonify5" ></a><img src="/photo/2022/sonify5/sonify5_thm.jpg" width="75" height="75" border="0" alt="Sonification Collection" align="left" />&nbsp;<span class="bold">Sonification Collection</span><br />&nbsp;&nbsp; <a href="/photo/2022/sonify5/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/sonify5/sonify5_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/sonify5/sonify5_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Black Hole Survey -->
+<a name="imbhs" ></a><img src="/photo/2022/imbhs/imbhs_thm.jpg" width="75" height="75" border="0" alt="Black Hole Survey" align="left" />&nbsp;<span class="bold">Black Hole Survey</span><br />&nbsp;&nbsp; <a href="/photo/2022/imbhs/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/imbhs/imbhs_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/imbhs/imbhs_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Spiderweb Galaxy Field -->
+<a name="spiderweb" ></a><img src="/photo/2022/spiderweb/spiderweb_thm.jpg" width="75" height="75" border="0" alt="Spiderweb Galaxy Field" align="left" />&nbsp;<span class="bold">Spiderweb Galaxy Field</span><br />&nbsp;&nbsp; <a href="/photo/2022/spiderweb/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/spiderweb/spiderweb_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/spiderweb/spiderweb_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- PSR J2030+4415 -->
+<a name="j2030" ></a><img src="/photo/2022/j2030/j2030_thm.jpg" width="75" height="75" border="0" alt="PSR J2030+4415" align="left" />&nbsp;<span class="bold">PSR J2030+4415</span><br />&nbsp;&nbsp; <a href="/photo/2022/j2030/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/j2030/j2030_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/j2030/j2030_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- GW170817 -->
+<a name="gw170817" ></a><img src="/photo/2022/gw170817/gw170817_thm.jpg" width="75" height="75" border="0" alt="GW170817" align="left" />&nbsp;<span class="bold">GW170817</span><br />&nbsp;&nbsp; <a href="/photo/2022/gw170817/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/gw170817/gw170817_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/gw170817/gw170817_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Chandra Archive Collection -->
+<a name="archives" ></a><img src="/photo/2022/archives/archives_thm.jpg" width="75" height="75" border="0" alt="Chandra Archive Collection" align="left" />&nbsp;<span class="bold">Chandra Archive Collection</span><br />&nbsp;&nbsp; <a href="/photo/2022/archives/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/archives/archives_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/archives/archives_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Eta Carinae -->
+<a name="etacar" ></a><img src="/photo/2022/etacar/etacar_thm.jpg" width="75" height="75" border="0" alt="Eta Carinae" align="left" />&nbsp;<span class="bold">Eta Carinae</span><br />&nbsp;&nbsp; <a href="/photo/2022/etacar/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/etacar/etacar_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/etacar/etacar_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Mrk 462 -->
+<a name="mrk462" ></a><img src="/photo/2022/mrk462/mrk462_thm.jpg" width="75" height="75" border="0" alt="Mrk 462" align="left" />&nbsp;<span class="bold">Mrk 462</span><br />&nbsp;&nbsp; <a href="/photo/2022/mrk462/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/mrk462/mrk462_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2022/mrk462/mrk462_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- RBS 797 -->
+<a name="rbs797" ></a><img src="/photo/2021/rbs797/rbs797_thm.jpg" width="75" height="75" border="0" alt="RBS 797" align="left" />&nbsp;<span class="bold">RBS 797</span><br />&nbsp;&nbsp; <a href="/photo/2021/rbs797/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/rbs797/rbs797_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/rbs797/rbs797_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Planetary Nebula Archive -->
+<a name="pne" ></a><img src="/photo/2021/pne/pne_thm.jpg" width="75" height="75" border="0" alt="Planetary Nebula Archive" align="left" />&nbsp;<span class="bold">Planetary Nebula Archive</span><br />&nbsp;&nbsp; <a href="/photo/2021/pne/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/pne/pne_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/pne/pne_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- KPD 0005+5106 -->
+<a name="kpd0005" ></a><img src="/photo/2021/kpd0005/kpd0005_thm.jpg" width="75" height="75" border="0" alt="KPD 0005+5106" align="left" />&nbsp;<span class="bold">KPD 0005+5106</span><br />&nbsp;&nbsp; <a href="/photo/2021/kpd0005/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/kpd0005/kpd0005_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/kpd0005/kpd0005_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Whirlpool Galaxy -->
+<a name="m51" ></a><img src="/photo/2021/m51/m51_thm.jpg" width="75" height="75" border="0" alt="Whirlpool Galaxy" align="left" />&nbsp;<span class="bold">Whirlpool Galaxy</span><br />&nbsp;&nbsp; <a href="/photo/2021/m51/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/m51/m51_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/m51/m51_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- G344.7-0.1 -->
+<a name="g344" ></a><img src="/photo/2021/g344/g344_thm.jpg" width="75" height="75" border="0" alt="G344.7-0.1" align="left" />&nbsp;<span class="bold">G344.7-0.1</span><br />&nbsp;&nbsp; <a href="/photo/2021/g344/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/g344/g344_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/g344/g344_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Sonification Collection -->
+<a name="sonify4" ></a><img src="/photo/2021/sonify4/sonify4_thm.jpg" width="75" height="75" border="0" alt="Sonification Collection" align="left" />&nbsp;<span class="bold">Sonification Collection</span><br />&nbsp;&nbsp; <a href="/photo/2021/sonify4/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/sonify4/sonify4_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/sonify4/sonify4_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- MG B2016+112 -->
+<a name="mgb2016" ></a><img src="/photo/2021/mgb2016/mgb2016_thm.jpg" width="75" height="75" border="0" alt="MG B2016+112" align="left" />&nbsp;<span class="bold">MG B2016+112</span><br />&nbsp;&nbsp; <a href="/photo/2021/mgb2016/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/mgb2016/mgb2016_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/mgb2016/mgb2016_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- V404 Cygni -->
+<a name="v404cyg" ></a><img src="/photo/2021/v404cyg/v404cyg_thm.jpg" width="75" height="75" border="0" alt="V404 Cygni" align="left" />&nbsp;<span class="bold">V404 Cygni</span><br />&nbsp;&nbsp; <a href="/photo/2021/v404cyg/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/v404cyg/v404cyg_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/v404cyg/v404cyg_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Abell 1775 -->
+<a name="a1775" ></a><img src="/photo/2021/a1775/a1775_thm.jpg" width="75" height="75" border="0" alt="Abell 1775" align="left" />&nbsp;<span class="bold">Abell 1775</span><br />&nbsp;&nbsp; <a href="/photo/2021/a1775/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/a1775/a1775_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/a1775/a1775_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Northern Clump -->
+<a name="nclump" ></a><img src="/photo/2021/nclump/nclump_thm.jpg" width="75" height="75" border="0" alt="Northern Clump" align="left" />&nbsp;<span class="bold">Northern Clump</span><br />&nbsp;&nbsp; <a href="/photo/2021/nclump/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/nclump/nclump_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/nclump/nclump_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- MSH 15-52 -->
+<a name="msh1552" ></a><img src="/photo/2021/msh1552/msh1552_thm.jpg" width="75" height="75" border="0" alt="MSH 15-52" align="left" />&nbsp;<span class="bold">MSH 15-52</span><br />&nbsp;&nbsp; <a href="/photo/2021/msh1552/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/msh1552/msh1552_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/msh1552/msh1552_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Super Flares -->
+<a name="superflares" ></a><img src="/photo/2021/superflares/superflares_thm.jpg" width="75" height="75" border="0" alt="Super Flares" align="left" />&nbsp;<span class="bold">Super Flares</span><br />&nbsp;&nbsp; <a href="/photo/2021/superflares/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/superflares/superflares_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/superflares/superflares_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Galactic Center -->
+<a name="gcenter" ></a><img src="/photo/2021/gcenter/gcenter_thm.jpg" width="75" height="75" border="0" alt="Galactic Center" align="left" />&nbsp;<span class="bold">Galactic Center</span><br />&nbsp;&nbsp; <a href="/photo/2021/gcenter/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/gcenter/gcenter_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/gcenter/gcenter_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- IC 443 -->
+<a name="ic443" ></a><img src="/photo/2021/ic443/ic443_thm.jpg" width="75" height="75" border="0" alt="IC 443" align="left" />&nbsp;<span class="bold">IC 443</span><br />&nbsp;&nbsp; <a href="/photo/2021/ic443/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/ic443/ic443_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/ic443/ic443_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Cassiopeia A -->
+<a name="casa" ></a><img src="/photo/2021/casa/casa_thm.jpg" width="75" height="75" border="0" alt="Cassiopeia A" align="left" />&nbsp;<span class="bold">Cassiopeia A</span><br />&nbsp;&nbsp; <a href="/photo/2021/casa/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/casa/casa_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/casa/casa_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- M87 -->
+<a name="m87" ></a><img src="/photo/2021/m87/m87_thm.jpg" width="75" height="75" border="0" alt="M87" align="left" />&nbsp;<span class="bold">M87</span><br />&nbsp;&nbsp; <a href="/photo/2021/m87/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/m87/m87_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/m87/m87_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Uranus -->
+<a name="uranus" ></a><img src="/photo/2021/uranus/uranus_thm.jpg" width="75" height="75" border="0" alt="Uranus" align="left" />&nbsp;<span class="bold">Uranus</span><br />&nbsp;&nbsp; <a href="/photo/2021/uranus/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/uranus/uranus_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/uranus/uranus_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Sonification Collection -->
+<a name="sonify3" ></a><img src="/photo/2021/sonify3/sonify3_thm.jpg" width="75" height="75" border="0" alt="Sonification Collection" align="left" />&nbsp;<span class="bold">Sonification Collection</span><br />&nbsp;&nbsp; <a href="/photo/2021/sonify3/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/sonify3/sonify3_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/sonify3/sonify3_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- PJ352-15 -->
+<a name="jet" ></a><img src="/photo/2021/jet/jet_thm.jpg" width="75" height="75" border="0" alt="PJ352-15" align="left" />&nbsp;<span class="bold">PJ352-15</span><br />&nbsp;&nbsp; <a href="/photo/2021/jet/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/jet/jet_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/jet/jet_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Supernova 1987A -->
+<a name="pwn1987a" ></a><img src="/photo/2021/pwn1987a/pwn1987a_thm.jpg" width="75" height="75" border="0" alt="Supernova 1987A" align="left" />&nbsp;<span class="bold">Supernova 1987A</span><br />&nbsp;&nbsp; <a href="/photo/2021/pwn1987a/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/pwn1987a/pwn1987a_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/pwn1987a/pwn1987a_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Sagittarius A East -->
+<a name="sgrae" ></a><img src="/photo/2021/sgrae/sgrae_thm.jpg" width="75" height="75" border="0" alt="Sagittarius A East" align="left" />&nbsp;<span class="bold">Sagittarius A East</span><br />&nbsp;&nbsp; <a href="/photo/2021/sgrae/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/sgrae/sgrae_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/sgrae/sgrae_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- Triple Galaxy Mergers -->
+<a name="dualagn" ></a><img src="/photo/2021/dualagn/dualagn_thm.jpg" width="75" height="75" border="0" alt="Triple Galaxy Mergers" align="left" />&nbsp;<span class="bold">Triple Galaxy Mergers</span><br />&nbsp;&nbsp; <a href="/photo/2021/dualagn/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/dualagn/dualagn_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/dualagn/dualagn_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+<!-- J1818.0-1607 -->
+<a name="j1818" ></a><img src="/photo/2021/j1818/j1818_thm.jpg" width="75" height="75" border="0" alt="J1818.0-1607" align="left" />&nbsp;<span class="bold">J1818.0-1607</span><br />&nbsp;&nbsp; <a href="/photo/2021/j1818/" style="color:#009500;">[Photo Album]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/j1818/j1818_description_audio.mp3" style="color:#009500;">[Audio]</a><br />
+<br />&nbsp;&nbsp; <a href="/photo/2021/j1818/j1818_description.txt" style="color:#009500;">[Text]</a><br clear="all" /><br />
+
+<br clear="all" />
+        <div id="footer">
+	<div style="border-top-color:#666666; border-top-style:dotted; border-top-width:1px; width:93%; float:left;">
+
+	<div style="float:left; width:100%" class="text">
+		<div style="padding-top:5px;">
+			<div style="padding-bottom:5px;">
+			<a href="/index.html">CXC Home</a> | <a href="/search.html">Search</a> | <a href="/help.html">Help</a> | <a href="/sitemap.html">Site Map</a> | <a href="/photo/image_use.html">Image Use Policy</a> | <a href="/photo/chronological.html">Latest Images</a>
+            </div>
+			<div style="padding-bottom:5px;">
+			<a href="/downloads.html">Plugins</a> | <a href="https://www.si.edu/privacy">Privacy</a> | <a href="/privacy.html">Accessibility</a> | <a href="/new.html">New &amp; Noteworthy</a>  | <a href="/resources/glossaryA.html">Glossary</a> | <a href="/resources/faq/index.html">Q&amp;A</a> 
+            </div>
+			<div style="padding-top:5px;">
+            <a href="/photo/xml/"><img src="/graphics/top/icon.wd.xml.gif" width="24" height="11" alt="RSS Feed" border="0" /></a>&nbsp;<a href="/photo/xml/">Photo</a> | <a href="/press/xml/"><img src="/graphics/top/icon.wd.xml.gif" width="24" height="11" alt="RSS Feed" border="0" /></a>&nbsp;<a href="/press/xml/">Press</a> | <a href="/resources/podcasts/"><img src="/graphics/top/icon.wd.pod.gif" width="23" height="11" alt="Podcast Icon Image" border="0" /></a>&nbsp;<a href="/resources/podcasts/">Podcast</a> | <a href="/blog/"><img src="/graphics/top/icon.wd.xml.gif" width="24" height="11" alt="Blog Icon Image" border="0" /></a>&nbsp;<a href="/blog/">Blog</a> | <a href="/resources/feeds.html"><img src="/graphics/top/icon.wd.xml.gif" width="24" height="11" alt="Blog" border="0" /></a>&nbsp;<a href="/resources/feeds.html">More Feeds</a>
+        </div>
+           </div>
+          </div>
+
+
+
+<div style="clear: left; float:left; width:100%;">
+
+	<div style="float:left; width:49%; padding-top:20px;">		
+		<div class="footer" style="padding-bottom:18px;">
+		[News by email: <a href="/chronicle/news_priv.html">Chandra Digest</a>]<br />
+[Contact us: <a href="mailto:cxcpub@cfa.harvard.edu">cxcpub@cfa.harvard.edu</a>]
+		</div>
+        <div style="padding-top:25px;"><span class="footer">Harvard-Smithsonian Center for Astrophysics<br />60 Garden Street, Cambridge, MA 02138 USA<br />Phone: 617.496.7941 Fax: 617.495.7356</span>
+        <br /><br />
+        <!--Text Size:<br />
+		<a title="normal text" href="?set=cxcpub"><img src="/graphics/font_normal.jpg" alt="normal font" width="15" height="17" border="0" /></a>
+<a title="large text" href="?set=large"><img src="/graphics/large_font.jpg" alt="large font" width="16" height="17" border="0" /></a>
+		<a title="larger text" href="?set=larger"><img src="/graphics/font_larger.jpg" alt="larger font" width="19" height="17" border="0" /></a>-->
+        </div>
+       </div>
+
+<div style="float:right; width:50%; padding-top:20px;">
+<div>
+<map name="logos" id="logos">
+<area shape="circle" coords="26,24,20" alt="NASA's Home Page" href="http://www.nasa.gov/" target="_blank" />
+<area shape="circle" coords="72,25,19" alt="Smithsonian's Home Page" href="http://www.si.edu/" target="_blank" />
+<area shape="circle" coords="112,22,18" alt="CXC Home Page" href="http://chandra.harvard.edu" />
+</map>
+<img src="/graphics/pub/logos.gif" width="137" height="51" border="0" usemap="#logos" alt="Image Map for NASA's, Smithsonian and Chandra's Home Pages" />
+</div>
+<div style="padding-top:20px;" >
+<span class="footer">Operated for NASA by SAO<br />This site was developed with funding from NASA under Contract NAS8-03060.</span>
+</div>
+</div>
+</div>
+</div>
+<!--<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-123456-1";
+urchinTracker();
+</script>-->
+
+<br clear="all" />
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2012 Webtrends Inc.  All rights reserved. -->
+<!-- Version: 9.4.0 -->
+<!-- Tag Builder Version: 4.0  -->
+<!-- Created: 3/22/2012 5:40:28 PM -->
+<script src="/incl/scripts/webtrends.js" type="text/javascript"></script>
+<!-- ----------------------------------------------------------------------------------- -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- ----------------------------------------------------------------------------------- -->
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+}
+_tag.dcsCollect();
+//]]>
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//logs1.smithsonian.museum/dcsx49imdadzpxzz2hqgi3i9h_5i4g/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.chandra.harvard.edu"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+<div align="right">Revised: September 06, 2022</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
