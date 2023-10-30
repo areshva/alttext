@@ -1,13 +1,14 @@
-Chandra Release - May 12, 2022
+Chandra Release - June 15, 2022
 
-Visual Description: Supermassive Black Hole 
+Visual Description: G292.0+1.8 Supernova Remnant 
 
-Today's release features a composite image of the supermassive black hole at the center of our Milky Way galaxy. Pointing to the middle of the main image is an inset image of the region around the "event horizon," the boundary of the black hole from which nothing can escape. 
+This release features a composite image of a supernova remnant, which resembles a ball of swirling, red, purple and blue clouds veined with bright white light. 
 
-In the main image, golden orange specks of light and tendrils of neon purple and blue clouds are set against a black background. The oranges and purples were captured in infrared light by NASA's Hubble Space Telescope. The blues represent data from NASA's Chandra X-ray Observatory. At the heart of the main image are several bright white dots, including one that contains the supermassive black hole at the center of our galaxy, known as Sagittarius A*. 
+ 
 
-Emerging from this bright white dot is an inset image, housed at our upper right. This image is from the Event Horizon Telescope. It shows a bright, orange ring with three golden yellow spots and a red aura. This is gas around the event horizon of the galaxy's supermassive black hole. This bright ring is formed by light bending in the intense gravity around the black hole at the center, which has a mass some 4 million times that of our Sun.
+Inside this supernova remnant, near our lower left, is a white dot; a fast-moving pulsar. This pulsar, J1124-5916, is enlarged in an inset found at the lower left hand corner of the main image. In the enlarged inset, a near-horizontal oblong aura surrounding the dot becomes clear. 
 
+ 
 
-
+A pair of supplementary images are also included in today's release. In those images, labeled 2006 and 2016, small red plus symbols sit inside blue pixelated ovals. The red symbols represent the position of the pulsar inside the supernova remnant in 2006. In the first image, labeled 2006, the red symbol is near the center of the blue pixelated oval. In the second, labeled 2016, the blue oval has shifted down and to the left. This shows the shift in position of the pulsar between 2006 and 2016. Though this shift appears small in these renderings, calculations made by combining Chandra's high-resolution images with the coordinates of the pulsar, and other X-ray sources from the Gaia satellite, indicate that the pulsar has moved 120 billion miles in a 10-year span.
 

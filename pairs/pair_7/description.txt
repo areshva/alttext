@@ -1,7 +1,17 @@
-NGC 4839 / Coma Galaxy Cluster Visual Description
+Chandra Release - June 21, 2023
 
-This release features a pair of composite images of a galaxy group plunging into a galaxy cluster, one of the largest structures in the universe. The composite image on our left shows the NGC 4839 galaxy group approaching the heart of the Coma Galaxy cluster. The composite image on our right is a close up of the galaxy group and its extraordinary tail.
+Visual Description: Milky Way's Central Black Hole Woke Up 200 Years Ago, NASA's IXPE Finds
 
-The wide shot on our left depicts the Coma galaxy cluster as a large blue gas cloud with a bright, hazy, light-purple core. Sitting to our left of center, this cloud-within-a-cloud is dotted with hundreds of glowing specks. Each speck is a distinct galaxy. At the lower right of this image, a smaller blue cloud approaches. This is the galaxy group NGC 4839 and its comet-like tail. This cloud is vaguely shaped like a slice of pie, with a bright white and purple dot at the tip. This tip points toward the bright light-purple core as it enters the outer edge of the cluster’s blue gas cloud. The cluster, the group, and the cloud around them are set against a black, starry sky. In this image they are presented using data from the XMM-Newton observatory, and the Sloan Digital Sky Survey.
+This release features multiple images and sonifications, each focused on molecular clouds near the black hole known as Sagittarius A*.  
 
-On our right is a close up image of the approaching galaxy group, which looks much less pie-shaped from this perspective. This image using Chandra data has been rotated such that the cluster is traveling horizontally toward our left, not our upper left as in the previous image. At the tip of the galaxy group is a bright white dot. In a labeled version of the image, this is identified as the ‘Head’ of the galaxy group. Here, the cloud trailing behind the head is neon purple, flecked with specks of white. This is a tail of hot gas stripped off the galaxy group’s head as it plunges into the cloud of gas surrounding the Coma cluster. This comet-like tail is 1.5 million light-years long, and is filled with key ingredients to make future generations of stars and planets.
+ 
+
+The primary image features a top panel and a bottom panel. The top panel offers an image of the Milky Way's core, courtesy of Chandra's X-ray Observatory. In this rendering, the Milky Way resembles layers of neon pink and dark blue clouds, dotted with specks of light in similar colors. Two bright spots in light blue glow to our left of center. 
+
+ 
+
+The bottom panel offers a close-up image of the space between the glowing light blue spots, courtesy of Chandra and NASA's Imaging X-ray Polarimetry Explorer (IXPE). Thin white lines layered onto the top panel frame the area being highlighted, and indicate that the perspective in the bottom panel has been rotated approximately 45 degrees to our right. In the bottom panel, dappled orange mist overlaps with cloudy indigo veins, and light purple specks. These patches of veiny mist are molecular clouds. By combining data from IXPE and Chandra, researchers have determined that the X-ray light in the clouds originated from Sagittarius A* during an outburst approximately 200 years ago. 
+
+ 
+
+This lower panel image is used in a sonification of the same data sets. In the sonification, an arched line ripples across the image, beginning at our lower right hand corner. As it passes over the dappled orange mist representing IXPE data, sounds like digital winds are triggered. When the mist is bright, the whooshing sounds grow more intense. When the arching line passes the indigo veins and specks representing Chandra data, notes are played resembling steel drums. The brighter the light, the louder the sound.

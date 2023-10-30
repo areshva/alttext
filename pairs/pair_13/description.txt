@@ -1,23 +1,11 @@
-Chandra Release - March 8, 2023
+Chandra Release - April 20, 2023
 
-Visual Description: 3C 297 
+Visual Description: Supernova X-ray Blast Wave  
 
-This release features a composite image of a lonely galaxy containing a supermassive black hole, two jets, and an X-ray hotspot, all surrounded by hot gas. Visually, the scene resembles colorful, out-of-focus points of light in a dark room, clouded with pockets of purple mist. Given the complexity of the image, it is presented both with and without labels.
+This release features a suite of images, including artist's illustrations that tell the story of intense X-rays from exploded stars triggering extinction events on nearby planets.
 
- 
+In one illustration, labeled 'View When Supernova Occurs', a large Earth-like planet occupies the left half of the image. A brilliant, gleaming supernova appears in the distance at our upper right. Light from the planet's host star, out of view to the right, illuminates the blue oceans and largely green landmasses on one side of the Earth-like planet. White clouds dot the planet's thin atmosphere, but the colors beneath remain crisp and clear.
 
-Much of the image features blurry blue, purple, and orange dots against a black background. But the focus of this release is on the solo galaxy at our righthand side of the image, known as 3C 297. Layered atop the dotted black background, the solo galaxy resembles a disk of orange haze with a bright white dot at the center. The white dot is the location of the supermassive black hole at the galaxy's core. The black hole pulls gas inwards, and drives the powerful jets of matter.  
+In a subsequent illustration, labeled 'View Decades After Supernova Occurs', the supernova at our upper right is now a smaller speck of light, encircled by a blast wave. The blast wave, which contains a lethal dose of X-rays, has a cottony white outer ring, and fiery orange inner ring. Both are streaked with fine lines emanating from the gleaming speck at the core. A fine blue haze surrounds the supernova and blast wave. On our left, the large Earth-like planet is no longer bright blue and green. The landmasses are now rendered in muted shades of brown and grey. Yellowed clouds dot the thin, hazy atmosphere, dulling the colors beneath, including the blues of the now murky oceans. These changes were caused by X-rays wiping out most of the planet's ozone layer. This caused an increase in ultraviolet radiation reaching the planet's surface and triggered an extinction event.
 
- 
-
-Shooting from the orange haze toward our upper right, is a short, blurry, neon red line. This is a jet: a stream of particles blasting from the supermassive black hole inside the solo galaxy. At the end of the short red line is a second bright white dot, this one ringed in neon red. This is the X-ray hotspot, where matter from the jet has smashed into the purple gas cloud. 
-
- 
-
-A second jet emerges from the bottom of the hazy orange disk, and gently curves toward our lower right. This jet is also neon red but is considerably less vibrant. It presents as a sparse dotted line, rather than a solid one. Interactions with its surroundings have caused the jet to bend.
-
- 
-
-All of these elements, the solo galaxy, black hole, jets, and hotspot, are surrounded by the purple gas cloud. X-ray data from Chandra suggests this gas is present in very large quantities and is heated to millions of degrees Fahrenheit. 
-
-
+This illustration is the featured image in today's release, and is presented with and without annotation. 

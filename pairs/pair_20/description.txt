@@ -1,16 +1,20 @@
-Chandra Release - November 29, 2022
+Chandra Release - January 9, 2023
 
-Visual Description: RCW 36 
+Visual Description: 30 Doradus 
 
-This release features a colorful composite image of a large gas cloud flecked with white dots, presented both unmarked, and with a labelled rollover. RCW 36 is a mustard yellow, burnt orange, royal blue, and violet cloud. It is mainly composed of hydrogen atoms that have been stripped of their electrons. The white dots are new stars, a major source of the region's hot gas.
-
- 
-
-Many of the stars peek through thin gaps in the gas cloud near the center of the image. These gaps are surrounded by a loose band of relatively bright mustard yellow gas. At our upper and lower left, gauzy blues and purples dominate the cloud. To our right, darkened puffs of moss yellow cloud are set against a black background.
+This release features a composite image of 30 Doradus, otherwise known as the Tarantula Nebula, a region of active star formation in a neighboring galaxy. In the image, royal blue and purple gas clouds interact with red and orange gas clouds. Specks of light and large gleaming stars peek through the colourful clouds.
 
  
 
-The labelled overlay highlights three overlapping regions in this gas cloud. At our lower left and upper right are two large pink circles that extend beyond the edges of the image. These indicate cavities, or voids, carved out of the ionized hydrogen gas. These two circles overlap in the center of the image near the brightest stars in the cloud. This area is encircled by a tall white oval marking a ring of gas wrapping around the central star cluster. 
+The patches of royal blue and purple gas clouds represent X-ray data collected by the Chandra Observatory. The brightest and most prominent blue cloud appears at the center of the image, roughly shaped like an upward pointing triangle. Darker X-ray clouds can be found near the right and left edges of the image. 
+
+ 
+
+The red and orange gas clouds represent infrared data from the James Webb Space Telescope. These patches resemble clouds of roiling fire. The brightest and most prominent infrared cloud appears at our upper left, roughly shaped like a downward pointing triangle.
+
+ 
+
+Wispy white clouds outline the upward pointing bright blue triangle in the center of the image. Inside this frame is a brilliant gleaming star with six long, thin, diffraction spikes. Beside it is a cluster of smaller bright specks showing young stars in the nebula.
 
 
 

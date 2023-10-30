@@ -1,13 +1,20 @@
-Chandra X-ray Observatory Release, July 15, 2021
+Chandra Release - August 31, 2021
 
-Visual Description: Abell 1775 
+Visual Description: MG B2016+112 Gravitational Lensing
 
-The primary image of this release features a small galaxy cluster plowing through a larger one, leaving behind a wake of hot gas. 
+A new technique utilizing NASA's Chandra X-ray Observatory has allowed astronomers to obtain an unprecedented look at the early Universe. By using a distant galaxy as an "X-ray magnifying glass", astronomers can amplify elements of even more distant objects from the early Universe for more advanced study and observation.
 
-The large galaxy cluster resembles a round cloud of neon blue squiggles, more dense on our left than on our right. Just below the center of this cloud is a light blue shape packed with blurry squiggles. It resembles a mushroom cap on its side, with a thin horizontal stem shaped like an umbrella handle sticking out the bottom, pointing to our left. The mushroom cap is hot gas in the smaller galaxy cluster. The umbrella handle is the wake of hot gas. Although, it's important to remember that small is a relative term. Galaxy clusters are the largest structures in the Universe held together by gravity, containing hundreds or even thousands of individual galaxies.
+This release features an artist's interpretation of the technique, as well as an inset X-ray image from the Chandra Observatory.
 
-A red line that resembles a vapor trail left by an airplane cuts through the cloud. It extends from the bottom of the mushroom cap to the upper left of the large blue cloud-like galaxy cluster. This is a jet from a supermassive black hole on the left side of the small mushroom-cap galaxy cluster.
+The illustration depicts beams of light set against a black background. The beams of light originate from two glimmering star shapes on our left, identified as 'objects in [the] early universe'. The two beams shine to our right, depicted as 3-dimensional cones of light; a blue beam above a purple one. 
 
-There are two other red lines inside the blue cloud. Both are shorter and more translucent than the jet, but they all have one end near the bottom of the side-facing mushroom cap. The long jet exits the blue cloud at 11 on a clock face. The next longest points toward 10, and the faintest follows the path of the light blue mushroom stem. The origin of these two red tendrils is less clear, but they are likely related to gas motions in the colliding clusters.
- 
+Near the center of the illustration is a hazy rusty orange circle specked with blue and red dots. This is labeled 'intervening galaxy'. The beams of light enter this circle on our left, and exit it on our right with altered courses. The blue beam of light exits the galaxy significantly brighter than it was when it entered. It angles down toward our lower right, and appears to bend toward us. This cone of light is labeled 'C'.  Inside the rusty orange circle, the purple beam of light changes course and splits into two. One of these beams bends toward our upper right and is labeled 'A'. The other beam emerges from the rusty orange circle in between beams 'A' and 'C'. It is rendered in faded purple and is labeled 'B'.
 
+All three beams end on the right side of the illustration, in a panel delineated by white dots or dashes. This represents the area covered by the X-ray inset, labeled 'Chandra image'. In the illustration, the beams of light are presented at an angle, providing views of the light's path from their origins in the distance on our left, through the intervening galaxy in the center, and toward us on the right.
+
+In the Chandra inset, the beams of light shine directly at us. The beam labeled 'A' appears as a round shape near the inset's upper left, light pink in the center encircled with a ring of neon purple. The beam of light labeled 'C' appears at our lower right, similar in shape, but brighter than 'A'. Attached to the upper right of 'C' is a smaller, faded shape labeled 'B'. 'C' and 'B' are wrapped in the same neon purple outline, creating the illusion of a single oddly-shaped beam.
+
+Together, these images illustrate the technique known as Gravitational Lensing. When it passed through the intervening galaxy, the purple beam was warped by gravity giving beam 'A', and a second purple beam was produced: the one labeled 'B'. The blue beam started as the fainter of the two original beams, but the 'lens' of the intervening galaxy has amplified the light, making beam 'C' 300 times brighter.
+
+
+The distant objects are believed to be two growing supermassive black holes, or one black hole and a jet, 12 billion light-years away.

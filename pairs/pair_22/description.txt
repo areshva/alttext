@@ -1,24 +1,16 @@
-Chandra Release - November 2, 2022
+Chandra Release - November 29, 2022
 
-Visual Description: Hot Jupiters
+Visual Description: RCW 36 
 
-Today's release features an artist's digital illustration of a gas giant exoplanet closely orbiting a large fiery star, with a second star off in the distance. 
-
- 
-
-The large fiery star occupies our left side of the horizontal image, extending well beyond the edges of the frame. Swirling orange and yellow fire covers the mottled surface. Wispy radiation streaked with tendril-like flares surrounds the star like a blanket of golden yellow mist.
+This release features a colorful composite image of a large gas cloud flecked with white dots, presented both unmarked, and with a labelled rollover. RCW 36 is a mustard yellow, burnt orange, royal blue, and violet cloud. It is mainly composed of hydrogen atoms that have been stripped of their electrons. The white dots are new stars, a major source of the region's hot gas.
 
  
 
-The considerably smaller gas exoplanet appears beside the fiery host star, at our lower right. The exoplanet's streaked, muted surface is largely obscured by a steel blue cloud. This cloud, the exoplanet's atmosphere, is being blown to our right, blasted away by the host star's intense radiation.
+Many of the stars peek through thin gaps in the gas cloud near the center of the image. These gaps are surrounded by a loose band of relatively bright mustard yellow gas. At our upper and lower left, gauzy blues and purples dominate the cloud. To our right, darkened puffs of moss yellow cloud are set against a black background.
 
  
 
-In this illustration, the second star appears to be much smaller, as it's located in the distance at our upper right, far from the gas exoplanet. This star is bright yellow in color, marbled with darker patches. No blanket of radiation or tendril-like flares are present on the surface of this more distant star.
-
- 
-
-This image illustrates observations made by teams at the Chandra X-ray Observatory and ESA's XMM-Newton. Scientists believe that the presence of a gas giant exoplanet, like the one at our lower right, can potentially influence its host star by tidal forces. These forces cause the host star, like the large fiery star on our left, to rotate more rapidly, producing more X-rays and flares than its distant companion star.
+The labelled overlay highlights three overlapping regions in this gas cloud. At our lower left and upper right are two large pink circles that extend beyond the edges of the image. These indicate cavities, or voids, carved out of the ionized hydrogen gas. These two circles overlap in the center of the image near the brightest stars in the cloud. This area is encircled by a tall white oval marking a ring of gas wrapping around the central star cluster. 
 
 
 

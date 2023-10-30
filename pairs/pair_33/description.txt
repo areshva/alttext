@@ -1,16 +1,20 @@
-Chandra Release - March 31, 2022
+Chandra Release - May 4, 2022
 
-Visual Description: Spiderweb J1140-2629
+Visual Description: Black Hole Sonifications
 
-This release features a composite image of specks of light in the blackness of space, as well as a separate enlarged inset. This is a protocluster, a collection of galaxies and gas that will eventually evolve into a galaxy cluster.
+In this release, datasets gathered from two different black holes have been both visualized and sonified. These interpretations are presented as short videos with integrated soundtracks. The first focuses on the black hole at the center of the Perseus galaxy, and the second features the black hole in the Messier 87 galaxy.
 
+ 
 
-The specks of light are evenly distributed across the main image. Some are tiny pinpricks, while others register as large dots with glowing auras. These specks and dots, galaxies and black holes, glow in a variety of colors. Red, green, and white specks appear courtesy of the Subaru optical telescope in Hawaii. Purple specks were captured by NASA's Chandra X-ray Observatory.
+The composite image associated with the Perseus galaxy black hole resembles the view down the center of a purple, cotton candy funnel cloud. The blues and purples in this image represent X-ray data captured by Chandra. When assembling earlier images of this black hole, researchers identified literal sound waves; the lowest pitches ever found. In this sonification, those actual sounds have been scaled up 57 and 58 octaves to make them perceptible to the human ear. The original sound waves radiate in all directions from the center of the black hole, which here resembles a glowing white cluster at the heart of the funnel cloud. In the sonification video, a glowing purple line emanating from that glowing cluster, sweeps around the image like the hand of a clock, or the arm on a radar screen. As the line sweeps around the image, we hear the scaled-up sound waves being emitted in each direction.
 
+ 
 
-In the center of the image is a mid-sized, light purple dot surrounded by a hazy purple cloud. This is the center of the protocluster enlarged in the accompanying inset. In the enlargement, it becomes evident that the primary purple dot is accompanied by a slightly smaller purple dot, above and to our right. At the center of the smaller purple dot is a golden light resembling a fine wire filament in a lightbulb. 
+Three complimentary images have been used to create the sonification of the Messier 87, or M87 galaxy. Each of the three stacked images depicts the black hole and its jet using data from different telescopes. On top is an image in purple and black featuring X-ray data from Chandra. In the middle, in blue and white, is an optical image from NASA's Hubble Space Telescope. And on the bottom, in orange, white, and black, is a radio wave image courtesy of the Atacama Large Millimeter Array in Chile. In all three images, the black hole is a bright spot at our lower left. The jets, broken lines of varying width, shoot toward our upper right. In the X-ray image on top, the neon purple jet is set against the blackness of space. In the optical image in the middle, the wispy white jet is set against a sky-blue backdrop. And in the radio wave image on the bottom, the orange and white jet shoots across the black sky like a beam of fire.
 
+ 
 
-The larger purple dot is covered by a streak of faint purple cloud. Inside the cloud are similar golden lights, connected by a stringy, golden gauze. The golden lights are small galaxies around a larger galaxy in the center. The gold lights and gauze resemble a cosmic cobweb, earning it the nickname The Spiderweb Galaxy.
+In the sonification video, a glowing vertical line sweeps over the stacked images from our left to right. This means it encounters the common features in all three images at the same time; first the black hole, then the wispiest part of the jet, followed by the thickest part of the jet. Here, brightness controls the volume, so the brighter the element, the louder the sound. Each wavelength is mapped to a corresponding pitch range, meaning the X-ray wavelength occupies a higher pitch range than optical, which in turn is higher than radio. Strings have been assigned to the X-ray data, breathy synthesizer sounds to optical, and brass sounds to radio.
+
 
 

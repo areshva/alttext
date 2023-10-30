@@ -60,3 +60,13 @@ for i, (img_url, desc_url) in enumerate(zip(images, descriptions)):
         print(f'Description {i} downloaded: {desc_url}')
     except requests.RequestsException as e:
         print(f'Error downloading {img_url} or {desc_url}: {e}')
+
+
+# to-do:
+# - download all webb img/alt pairs
+# - ask etha to get ppt txts for webb
+# - create one doc with img-good txt-bad txt (one just for chandra, one for chnadra+web)
+# -set up API integration
+# - work on tweaking prompts to got4 for more useful scoring
+# - get vector scores for 'bad' and 'good' for each images
+# - pca stuff!

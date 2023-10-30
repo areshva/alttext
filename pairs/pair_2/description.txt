@@ -1,10 +1,17 @@
-Chandra Release - August 22, 2023
+Chandra Release - September 26, 2023
 
-Visual Description: ASASSN-14li
+Visual Description: Eta Carinae
 
-This release features an artist's illustration of red stellar debris swirling around a giant, spherical black hole. The debris field represents the remains of a star with three times the mass of our Sun, which was ripped apart by the black hole's immense gravity. This tidal disruption event is known as ASASSN-14li. Its aftermath was studied by NASA's Chandra X-ray Observatory, ESA's XMM-Newton, and other telescopes.
+This release features composite images and a time-lapse movie of a cosmic explosion that sky watchers have been observing since the middle of the 19th century. About 180 years ago, a huge explosion inside the Eta Carinae star system ejected massive amounts of material in an event dubbed the "Great Eruption". The resulting gas and debris cloud has been expanding ever since. 
 
-At the center of the illustration is the spherical black hole, half-submerged in the debris field, which resembles the top half of a jet black ball. The ball sits at the core of the disk-shaped debris field, which is composed of distinct orange and red rings. A long, wide, ribbon of red cloud, representing part of the star's residual gas, enters the illustration at our lower left corner. This ribbon of red gas sweeps toward our center right across the black, starry sky. There, the gas curves back to the left, behind the black hole. Drawn in by gravity, the ribbon of gas encircles the ringed disk of brick red and golden orange stellar debris. This debris orbits, and eventually falls into, the black hole. Faint blue mist appears to radiate from the black hole and the orbiting stellar debris field. This mist represents the portion of stellar gas driven away from the ringed disk by a wind.
+The time lapse sequence of Chandra observations begins with an image from 1999.  Here, a hazy, neon blue ball with a brilliant white core is encircled by a patchy, oblong, orange ring. The blue and white ball shows X-rays from two massive stars, 30 and 90 times the mass of our sun. These stars are too close together to be seen individually. The oblong orange gas ring encircling them is tilted, stretching toward our upper right and lower left.
+
+The time lapse movie progresses with four similar images, containing data from 2003, 2009, 2014, and 2020. As the images flit by, one after the other, the neon blue ball expands, but the white core appears stable. The patches forming the orange ring of gas shift and swell, moving away from the stars inside the blue and white ball.
+
+An additional composite image features optical and X-ray observations of the explosion, inside the expanding orange ring of gas. Here, the explosion is shaped like an hourglass, or peanut shell, with bulbous ends and a narrow middle. The shell is a translucent mauve color, streaked with purple veins. Inside, at the narrow middle, a brilliant white light gleams brightly. The peanut shell shape is tilted, with one bulbous end pointing away from us, toward our upper right, and the other pointing toward us, down to our lower left. This is the same orientation as the orange ring of gas. That indicates that both structures have the same origin: the "Great Eruption", observed about 180 years ago.
+
+
+
 
 
 

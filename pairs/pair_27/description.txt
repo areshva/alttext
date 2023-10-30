@@ -1,15 +1,27 @@
-Chandra Release - August 18, 2022
+Chandra Release - October 4, 2022
 
-Visual Description: NGC 4424
+Visual Description: James Webb Space Telescope and Chandra X-ray Observatory Images 
 
-The primary image of this release features the galaxy NGC 4424. Here, the galaxy resembles a wispy line of black smoke in a muted pink and dark grey cloud, dotted with specks of light. In this optical light image captured by the Hubble Space Telescope, the wispy black line is presented on a slight angle; lower on our left and higher on our right. The muted pink color is most evident near the center. The hazy dark grey cloud extends to the sides of the image, which represents a field of view about 45,000 light-years wide. NGC 4424 is, in fact, a spiral galaxy. In this image, the galaxy is observed from the side, making the spiral structure less evident like seeing a frisbee from the side. 
-
- 
-
-Below the wispy black line of smoke, just to our left of center, is a translucent purple dot in a white box. This part of the galaxy has been enlarged, and presented in an inset panel. The inset depicts a hot pink tadpole shape; a bulbous top with a tapered tail. Researchers have determined that this object, nicknamed Nikhuli, is a cluster of stars. It is likely all that remains of a small galaxy that collided with NGC 4424 and had most of its stars stripped away. The distinctive tadpole shape of Nikhuli appears to be the result of the gravitational pull of the larger galaxy elongating the otherwise round star cluster.
+This release includes four distinct composite images presented in a two-by-two grid. Each image features data from NASA's Chandra X-ray Observatory overlaid on images from the James Webb Space Telescope.   Stephan's Quintet also features data from the Spitzer Space Telescope.
 
  
 
-Nikhuli is surrounded by a disk of electric blue light, and backed by blurry red specks. The blue point source of X-rays seen with NASA’s Chandra X-ray Observatory is likely from a supermassive black hole near the center of Nikhuli.
+At our upper left is an image of five galaxies known as Stephan's Quintet. Two of the galaxies appear close together at the center of the image. One appears directly above, and another slightly to our left near the bottom of the image. Each of these four galaxies presents as an irregular dot of brilliant white light surrounded by glowing haze.  A fifth galaxy hides at our center left in an oval shape marbled with a tangle of golden orange lines. Similar golden orange tangles appear around the two galaxies at the center of the image, and the galaxy above them. Above the two galaxies at the center is a bright, light blue cloud. This is a shock wave uncovered by the Chandra data. Scattered across the image are specks of white and golden orange light, gleaming stars and distant galaxies. 
+
+ 
+
+At our upper right is an image of the Cartwheel galaxy, a neon pink disk with an outer ring, and a solid, slightly off-center spiraling core. Linking the smooth core and the irregular outer ring are wispy pink plumes of silicate dust which resemble twisted spokes on a bicycle wheel. At the upper left of the image are two companion galaxies, also pink in color. In this image the companion galaxies appear to be about the same size as the core of the Cartwheel galaxy. One companion galaxy is shaped like a backwards S, and is marked by bright white dots and tangles of fine crinkly lines. Below it, the second companion galaxy appears delicate and smooth, like a faded swirl of cotton candy.
+
+ 
+
+At our lower left is an image of the galaxy cluster SMACS 0723 which contains hundreds of individual galaxies in a sea of black space. Here the galaxies resemble specks of golden orange and white light. Some gleam with diffraction spikes radiating from the center. Some look like tiny swirling pinwheels. Some of the galaxies located far behind the cluster resemble short arcing streaks, their light having been bent by the mass of galaxies in the cluster. Near the center of the image, where some of the brightest galaxies reside, is a faint, pale blue haze. This is superheated gas with a total mass of about 100 trillion times that of the sun, revealed by the Chandra observatory. 
+
+ 
+
+ 
+
+Finally, at our lower right, is an image of the Carina Nebula, which resembles a rust brown mountain range backed by a hazy blue night sky.  A curtain of dust and gas in the nebula occupies the bottom half of the image. The blue sky-like area above is streaked with vertical bands of haze which rise from the nebula below. Pale clouds of pink show hot gas that was blown away from massive stars. A starfield of gleaming pink and white specks blankets the entire image. Three long diffraction spikes entering the image at our upper right hint at the presence of a bright star just out of view.
+
+
 
 

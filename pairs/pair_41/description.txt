@@ -1,25 +1,9 @@
-Chandra Release - November 22, 2021
+This release features two images of the same galaxy cluster, RBS 797, presented side-by-side. The first, on our left, is an optical image from NASA�s Hubble Space Telescope. The second, on our right, is an X-ray image from the Chandra X-ray Observatory.
 
-Visual Description: Roasted and Shredded by a Stellar Sidekick
+The optical image on our left features short streaks of golden light and golden stars of varying sizes set against a black background. While many of the stars resemble small roundish specks, others feature shafts of light bursting from brilliant, round cores. At the center of the image is a small fuzzy oval, surrounded by a glowing ring and a patch of golden haze. This is the large galaxy in the center of RBS 797.
 
-This release features an artist's illustration of a white dwarf star slowly pulling apart a neighbor through gravitational force. 
+The X-ray image on our right does not show the clustered galaxies, rather the hot gas that envelopes them. The image is royal blue in color, and somewhat mottled or cloudy. At the center is a pair of irregular black ovals, ringed with white and pale blue. These side-by-side shapes are X-ray cavities, thought to be a byproduct of eruptions from a giant black hole at the center of the cluster.
 
- 
-The white dwarf star, KPD 0005+5106, is located about 1,300 light years from Earth. In the artist's illustration it is depicted as a mottled blue-and-white sphere just to our left of center. The white dwarf is one source of the X-rays detected by the Chandra X-ray Observatory. Astronomers believe that the white dwarf's neighbor, or companion object, is either a low-mass star or planet. In the illustration it resembles an irregular sphere in faint brown and tan stripes, located at our upper right.
-
- 
-The white dwarf is likely pounding its neighbor with heat and radiation. It's also pulling its neighbor apart through gravitational force. The movement of material from the neighbor to the white dwarf is highlighted in the illustration. 
-
- 
-One side of the neighbor — the side closest to the white dwarf — glows red, and appears to emit orange and yellow flames. This represents material being ripped from the surface. The gravitational pull toward the white dwarf is also responsible for the neighbor's body to be shaped more like a football than a sphere. The flaming stolen material gets pulled from our upper right toward the center of the illustration. Here it's pulled into a swirling orange disk that surrounds the icy blue, white dwarf. This X-ray glow is presented in a small insert at our lower right, which features a hazy white circle surrounded by a hot pink ring.
-
- 
-In the main image, the stolen material swirls around the white dwarf, moving from the orange disk's outer edge toward the inner edge. There, the material changes from orange swirls to a tangle of yellow lines. These lines represent the last stage of the material's path. The tangle of yellow lines makes one circle around the white dwarf then slams into the top: the north pole. This creates a high-energy white spot at the top of the mottled blue-and-white sphere. This spot glows in X-rays that have also been detected by the Chandra Observatory.
-
- 
-If the white dwarf's neighbor is a planet the size of Jupiter, this barrage of radiation and loss of material will lead to its destruction in a few hundred million years.
-
-
-
+Additional cavities are found above and below the pair, though these black shapes are harder to distinguish and do not feature outer rings. These four cavities are arranged like the leaves on a four-leaf clover, with the leaves on our right and left far more distinct than the leaves at the top and bottom.
 
 

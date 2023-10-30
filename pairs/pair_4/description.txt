@@ -1,11 +1,10 @@
-Chandra Release - July 20, 2023
+Chandra Release - August 22, 2023
 
-Visual Description: SPT2215  
+Visual Description: ASASSN-14li
 
-This release features a composite image of a distant galaxy cluster known as SPT2215. In the main image, the galaxy cluster resembles a blue cloud with a hazy golden light at its core. The cluster is set against the blackness of space, which is dotted with white, orange and blue specks of light. A combination of X-ray, ultraviolet, optical, and infrared light, was used to create the image.
+This release features an artist's illustration of red stellar debris swirling around a giant, spherical black hole. The debris field represents the remains of a star with three times the mass of our Sun, which was ripped apart by the black hole's immense gravity. This tidal disruption event is known as ASASSN-14li. Its aftermath was studied by NASA's Chandra X-ray Observatory, ESA's XMM-Newton, and other telescopes.
 
-The blue cloud represents X-ray gas observed by Chandra. The cloud is soft, and uniform in texture. Over time, galaxy clusters often merge or collide. These collisions cause disturbances and sharp features in a cluster’s gas. When a cluster takes on a smooth, calm appearance, as found here in SPT2215, it indicates that no such collisions have occurred for a very long time. Astronomers call these galaxy clusters “relaxed”.
+At the center of the illustration is the spherical black hole, half-submerged in the debris field, which resembles the top half of a jet black ball. The ball sits at the core of the disk-shaped debris field, which is composed of distinct orange and red rings. A long, wide, ribbon of red cloud, representing part of the star's residual gas, enters the illustration at our lower left corner. This ribbon of red gas sweeps toward our center right across the black, starry sky. There, the gas curves back to the left, behind the black hole. Drawn in by gravity, the ribbon of gas encircles the ringed disk of brick red and golden orange stellar debris. This debris orbits, and eventually falls into, the black hole. Faint blue mist appears to radiate from the black hole and the orbiting stellar debris field. This mist represents the portion of stellar gas driven away from the ringed disk by a wind.
 
-The hazy golden light at the heart of the cloud represents a massive central galaxy with a large amount of star formation. This central galaxy is quite isolated within the blue gas cloud. There are relatively few nearby specks of light near the central galaxy, and none are as bright or as large. No other large galaxies have been found within 600,000 light-years of the central galaxy. This implies that SPT2215 has not experienced a galaxy merger in the last billion years.
 
-The universe is about 13.8 billion years old. SPT2215 is located about 8.4 billion light-years from Earth. This means that we are observing the galaxy cluster when the universe was only 5.3 billion years old. This is the first time scientists have discovered a “relaxed” galaxy cluster so far away, when the universe was relatively young and undergoing great turmoil. 
+

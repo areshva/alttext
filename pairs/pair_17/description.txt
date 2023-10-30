@@ -1,24 +1,15 @@
-Chandra Release - January 11, 2023
+Chandra Release - February 21, 2023
 
-Visual Description: 30 Doradus 
+Visual Description: Mirabilis and Elstir
 
-This release features four distinct images, presented in a two-by-two grid. At our upper left is an image created with X-ray data from a galaxy located about 4 billion light years from Earth. At the upper right is an optical image of the same galaxy. At our lower left is an image featuring X-ray data from a galaxy located about 1.5 billion light years from Earth. At our lower right is an optical image from that galaxy.
+This release includes two composite images presented side by side, separated by a thin white line. The image on our left features two colliding dwarf galaxies in the late stages of merging into one larger galaxy. The image on our right features two colliding dwarf galaxies in the early stages of merging. 
 
- 
 
-The images highlighting Chandra's X-ray data, on our left, feature white dots ringed with hot pink, set against a black background. Each of these dots shows X-rays from matter around a supermassive black hole. The more distant galaxy features two small dots with bright white cores; one at the center of the image, and one toward our upper right. Several smaller, faint pink dots without white cores are also present in the X-ray image.
+In the first pair of dwarf galaxies, on our left, a pale pink shape sits inside a hazy indigo blue cloud. The cloud contains neon pink streaks, and faint white specks. This cloud represents gas and stars in the merging galaxies. The pale pink shape at its core represents a black hole being tracked by the Chandra X-ray Observatory. Directly above the cloud is a neon pink and indigo circle, representing another black hole, followed by a curving tail of hazy indigo circles flecked with white. This tail, which curves up and to our right, is caused by tidal effects from the ongoing collision. Because these two dwarf galaxies are in the final stages of merging, scientists have given the combined galaxy a single name: Mirabilis.
 
- 
 
-The image created using X-ray data from the less distant galaxy, at our lower left, features one large, hazy dot. This dot also shows X-rays from matter around a supermassive black hole. It has a large white core and a wide pink ring. 
+In the second pair of dwarf galaxies, on our right, a neon pink cloud with a bright white circle at its core, sits above a larger companion with the same color configuration. These pink clouds are the dwarf galaxies known as Vinteuil and Elstir. The white cores represent black holes tracked by Chandra. Elstir, the larger neon pink cloud, near the bottom, features wispy tendrils. Several of these tendrils appear to reach up toward the smaller galaxy, Vinteuil, creating a bridge of gas and stars.
 
- 
-
-The Sloan Digital Sky Survey optical images on our right feature colorful specks of red, green, yellow, and blue, set against a black background. These are a mixture of stars and galaxies. Visually, they range from tiny flecks of dim light, to large gleaming circles ringed with translucent halos. The optical image of the more distant galaxy, at our upper right, appears sharper and more in focus than the image of the other galaxy at our lower right.
-
- 
-
-The optical images of both galaxies do not show radiation from material around the supermassive black holes featured in the X-ray images on the left.
 
 
 

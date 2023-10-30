@@ -1,10 +1,12 @@
-Chandra Release - January 7, 2021
+Chandra Release - Feb 8, 2021
 
-J1818 Magnetar Visual Description
+SgrA East
 
 
-This high-resolution composite image features a tiny, glowing purple dot in a sea of luminous stars. The purple dot is a magnetar, dubbed J1818. Magnetars are a type of neutron star, which are incredibly dense objects mainly made up of densely packed neutrons. Magnetars are a special class of neutron stars in part because of their extremely powerful magnetic fields. These magnetic fields are digitally animated in the accompanying video podcasts. Imagine a glowing marble with a straight hole drilled through the core from the north pole to the south. Now imagine a series of thin standing hoops lined up around the much smaller marble. Each passes through that drilled hole in the center, creating a series of large vertical loops. Magnetars don't actually have holes drilled through them, but the pattern of thin looping lines seemingly passing through their poles is how their magnetic fields are represented in these animations. 
+This composite image, depicting a supernova remnant near the center of the Milky Way, resembles spattered, luminous, blue and red paint on a black canvas. The luminous blue spatter represents data collected from Chandra; stellar debris in the X-ray spectrum. The luminous red spatter represents radio emissions from the NSF’s Very Large Array. The outer edges of the image are sparsely dotted with specks, but there is a greater concentration just to the right of center.
 
-In the primary image of this release, untold thousands of points of light, ranging from tiny to minuscule, fill the blackness of space surrounding the purple dot. While most of these stars glow white, some glow red, and others glow golden yellow in the image. A few specks appear to flare with bright white light, giving them a classic star shape. But only the magnetar in the center of the image appears purple. When magnified, its purple color is revealed to be a pale pink circle with an outer ring of darker neon violet light. 
+When thousands upon thousands of faint specks appear close together, the resulting form resembles a misty cloud. Here, two such clouds are present; one blue and one red. They overlap on the right side of the image.
 
-This view of the Milky Way also features several interstellar clouds, which here resemble misty shapes of various amounts of transparency. Along the bottom third of the image is a golden yellow cloud that is considerably thicker and more mottled at our lower right. It overlaps a dusty red cloud with a pale pink core. From this perspective, the dusty red cloud sits to the right of the magnetar, extending above the mottled yellow cloud. Another dusty red cloud extends beyond the upper-left edge of the image. 
+Two areas of interest are highlighted in an annotated close up of the composite image. In the blue cloud the ellipse is the supernova remnant Sagittarius A East. It includes X-ray emission from elements in the X-ray spectrum, such as iron and nickel. The amounts of these elements mean that Sagittarius A East is a strong candidate for the remains of a rare type of explosion; a Type 1ax supernova.  To the right of the ellipse, where the clouds overlap, a white cross marks a spot inside a bright swirl. The white cross is at the position of Sagittarius A, the supermassive black hole in the center of the Milky Way. 
+
+

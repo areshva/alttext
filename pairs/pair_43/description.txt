@@ -1,10 +1,25 @@
-Chandra Release - October 12, 2021
+Chandra Release - November 22, 2021
 
-Visual Description: When a Stable Star Explodes (G344.7-0.1) 
+Visual Description: Roasted and Shredded by a Stellar Sidekick
 
-The primary visual in this release is a composite image of a hazy blue marble-like sphere, floating in a black field dotted with yellow specks. This is the supernova remnant G344, the remains of a type 1a supernova. These supernovas can result from white dwarf stars accumulating material from a companion star until the white dwarf explodes. In this composite image, and in the accompanying single layer images, each color represents data captured by a different telescope. 
+This release features an artist's illustration of a white dwarf star slowly pulling apart a neighbor through gravitational force. 
 
-The hazy blue color of the marble-like sphere represents X-rays from the Chandra telescope. Inside the blue sphere are faint green squiggles and patches of hot pink. The green squiggles and a faint, wispy green cloud to the right of the blue sphere, at the edge of the composite image, represent infrared data collected by the Spitzer Space Telescope. The yellow specks, and cloudy yellow layer hidden under the blue haze also represent data collected by Spitzer. The hot pink patches represent data collected by two radio telescopes: the NSF's Very Large Array, and the Commonwealth Scientific and Industrial Research Organization's Australia Telescope Compact Array.
+ 
+The white dwarf star, KPD 0005+5106, is located about 1,300 light years from Earth. In the artist's illustration it is depicted as a mottled blue-and-white sphere just to our left of center. The white dwarf is one source of the X-rays detected by the Chandra X-ray Observatory. Astronomers believe that the white dwarf's neighbor, or companion object, is either a low-mass star or planet. In the illustration it resembles an irregular sphere in faint brown and tan stripes, located at our upper right.
+
+ 
+The white dwarf is likely pounding its neighbor with heat and radiation. It's also pulling its neighbor apart through gravitational force. The movement of material from the neighbor to the white dwarf is highlighted in the illustration. 
+
+ 
+One side of the neighbor — the side closest to the white dwarf — glows red, and appears to emit orange and yellow flames. This represents material being ripped from the surface. The gravitational pull toward the white dwarf is also responsible for the neighbor's body to be shaped more like a football than a sphere. The flaming stolen material gets pulled from our upper right toward the center of the illustration. Here it's pulled into a swirling orange disk that surrounds the icy blue, white dwarf. This X-ray glow is presented in a small insert at our lower right, which features a hazy white circle surrounded by a hot pink ring.
+
+ 
+In the main image, the stolen material swirls around the white dwarf, moving from the orange disk's outer edge toward the inner edge. There, the material changes from orange swirls to a tangle of yellow lines. These lines represent the last stage of the material's path. The tangle of yellow lines makes one circle around the white dwarf then slams into the top: the north pole. This creates a high-energy white spot at the top of the mottled blue-and-white sphere. This spot glows in X-rays that have also been detected by the Chandra Observatory.
+
+ 
+If the white dwarf's neighbor is a planet the size of Jupiter, this barrage of radiation and loss of material will lead to its destruction in a few hundred million years.
+
+
 
 
 

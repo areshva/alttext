@@ -1,23 +1,10 @@
-Chandra Release - December 6, 2021
+Chandra Release - January 10, 2022
 
-Visual Description: Planetary Nebula: Misnamed but Not Misunderstood
+Visual Description: Mrk 462
 
-This release features images of six different planetary nebulas observed by Chandra and NASA's Hubble Space Telescope. The resulting X-ray and optical images are presented in separate layers, and as colorful composite images. These composite images have been arranged in a grid, three across and two down, to create the primary visual of this release.  
+The primary graphic of today's release is an optical image of a galaxy group inset with an X-ray close-up of a dwarf galaxy, all backed by black space dotted with specks of light. The center of the galaxy group HCG068 appears on our left side of this horizontal graphic near several bright stars. The most prominent members are four distinct, labeled galaxies. NGC 5355 is a glowing silver speck. 5350 is a silver galaxy with spiralling radial arms. And 5353 and 5354 are two galaxies in a golden haze, which together resemble an apostrophe or comma.
 
-At our upper left of the grid is NGC 6302. This nebula resembles a butterfly with ethereal electric teal wings set against a star-packed sky. The wings, which are gas structures expelled by a white dwarf star, extend toward our upper right and lower left. Near the outer edges they are translucent, gauzy, and teal-colored. Near the center the wings appear more solid and white and have a shimmering quality similar to mother of pearl.
+ 
 
-To the right of NGC 6302 is IC 418. This nebula resembles a geode -- a rock which reveals concentric layers of colorful crystals when cut open. At IC 418's core is a small bright dot surrounded by a sky-blue glow. Encircling the glow is a thick ring of purple, marbled with faint orange lines. Around that is a ring of bright orange with a fine red outer edge.
-
-At the grid's upper right is a composite image of NGC 3242. This nebula is shaped like a translucent purple bug with a lime green head. The plum body of the imagined bug appears filled with cloudy purple gas. At its center is a small hot pink star. The bug's head is at our upper right. The translucent lime green coloring matches two patches of faint green haze which appear on either side of the body, like wings. A red nose-like spike protrudes from the bug's head at our upper right, balanced by a similar red shape behind the bug at our lower left.
-
-At the grid's lower left is NGC 7662, a nebula which resembles a tie-dyed blue and purple bean in a mossy green and orange cloud. At the center of the image is a pixilated white dot, the nebula's white dwarf. The bean shape around it is filled with blobs of sky blue and purple with lime green near the outer edges. The mossy green cloud that surrounds the bean shape is marked by smears and flecks of neon orange, as if dabbed with an artist's saturated brush.
-
-To the right of NGC 7662 is NGC 7027. This nebula resembles a fluffy marshmallow wrapped in translucent, icy blue leaves, backed by the head of a pale blue rose. The translucent leaves have feathery edges and are streaked with hot pink ripples. Several bright stars dot the black sky in the background.
-
-At the grid's lower right is NGC 2371. This nebula features a green and blue cloud shaped like a lumpy donut. At the center is a relatively small white dwarf star: a white dot with a purple outer ring. To our left of the white dwarf is a pale orange shape bursting out of the cloud like a fist punching through a wall.
-
-
-
-
-
+At our lower right is a glowing white dot labeled Mrk 462. This is the dwarf galaxy. Above it is an X-ray enlargement, presented in an outlined square. Here, Mrk 462 resembles a large, hazy neon pink circle. The X-rays emitted by this relatively small galaxy reveal the presence of a supermassive black hole about 200,000 times the mass of our Sun.
 

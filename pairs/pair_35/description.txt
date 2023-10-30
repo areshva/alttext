@@ -1,9 +1,16 @@
-Chandra Release - February 28, 2022
+Chandra Release - March 31, 2022
 
-Visual Description: GW170817 Illustration
+Visual Description: Spiderweb J1140-2629
 
-Today's release features an illustration of a vertically-oriented, oval debris field with a swirling disk at its core, and blue arcs hovering above and below at either end. This is an artist's conception of the aftermath of a "kilonova", a powerful event that happens when two neutron stars merge. 
+This release features a composite image of specks of light in the blackness of space, as well as a separate enlarged inset. This is a protocluster, a collection of galaxies and gas that will eventually evolve into a galaxy cluster.
 
-The swirling disk at the core of the illustration has a glowing white light at its center. This represents gas falling onto a black hole that formed after two neutron stars merged. This merger is called GW170817. The disk sits at the core of the oval debris field like a small yoke floating inside an egg. As the neutron stars merge, the debris generates visible and infrared light from the decay of radioactive elements. In the artist's conception, this debris field glows like a mottled, electric, orange and red marble.
 
-Hovering above and below the ends of the oval debris field are glowing blue arcs. When the neutron stars merged, a jet of high-energy particles shot from the disk at the kilonova's core. This jet slowed down and widened upon impact with surrounding gas and dust. The blue arcs illustrate where particles from the now-faded jet struck surrounding material. 
+The specks of light are evenly distributed across the main image. Some are tiny pinpricks, while others register as large dots with glowing auras. These specks and dots, galaxies and black holes, glow in a variety of colors. Red, green, and white specks appear courtesy of the Subaru optical telescope in Hawaii. Purple specks were captured by NASA's Chandra X-ray Observatory.
+
+
+In the center of the image is a mid-sized, light purple dot surrounded by a hazy purple cloud. This is the center of the protocluster enlarged in the accompanying inset. In the enlargement, it becomes evident that the primary purple dot is accompanied by a slightly smaller purple dot, above and to our right. At the center of the smaller purple dot is a golden light resembling a fine wire filament in a lightbulb. 
+
+
+The larger purple dot is covered by a streak of faint purple cloud. Inside the cloud are similar golden lights, connected by a stringy, golden gauze. The golden lights are small galaxies around a larger galaxy in the center. The gold lights and gauze resemble a cosmic cobweb, earning it the nickname The Spiderweb Galaxy.
+
+

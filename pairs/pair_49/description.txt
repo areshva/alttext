@@ -1,17 +1,13 @@
-Chandra Release — June 24, 2021
+Chandra X-ray Observatory Release, July 15, 2021
 
-Visual Description: MSH 15-52 
+Visual Description: Abell 1775 
 
-Today's release features a primary image of a hand-shaped nebula of particles and energy, seemingly reaching up to touch the remnants of an exploded star. The hand-shaped nebula resembles the back of a ghostly left-hand glove in swirling blues and greens. It has a distinct thumb, and a clear index and middle finger, but the ring finger is vaguely defined, and the pinky is only implied by a stump.
+The primary image of this release features a small galaxy cluster plowing through a larger one, leaving behind a wake of hot gas. 
 
+The large galaxy cluster resembles a round cloud of neon blue squiggles, more dense on our left than on our right. Just below the center of this cloud is a light blue shape packed with blurry squiggles. It resembles a mushroom cap on its side, with a thin horizontal stem shaped like an umbrella handle sticking out the bottom, pointing to our left. The mushroom cap is hot gas in the smaller galaxy cluster. The umbrella handle is the wake of hot gas. Although, it's important to remember that small is a relative term. Galaxy clusters are the largest structures in the Universe held together by gravity, containing hundreds or even thousands of individual galaxies.
 
-The nebula's fingertips reach up into a brick-red cloud speckled with clusters of bright orange and yellow dots with white cores. This is the supernova remnant MSH 15-52 colliding with a wall of surrounding gas. Inset in this primary image, and presented in separated annotated images, is a short time-lapse video of the supernova remnant.
+A red line that resembles a vapor trail left by an airplane cuts through the cloud. It extends from the bottom of the mushroom cap to the upper left of the large blue cloud-like galaxy cluster. This is a jet from a supermassive black hole on the left side of the small mushroom-cap galaxy cluster.
 
-
-The 4-second time-lapse is presented in shades of blue instead of reds and oranges, and features visualizations of three data sets; the first from 2004, the second from 2008, and the third from 2018. As the three images play in sequence, the cloud of blue shifts slightly as if being blown by a breeze from our lower left. The luminosity of the bright blue dots within the cloud also appears to change, but their movements are not readily apparent. Only after studying the annotated images are those movements clear.
-
-
-In the annotated images, several fixed red squares are superimposed over various dots and cloud patches. These areas feature clumps of magnesium and neon that were shot into space when the star exploded. When the 2004, 2008, and 2018 images are compared, one after the other, subtle but clear movement of that magnesium and neon is discernible within those fixed red squares. Using this Chandra data, scientists now estimate that some debris within this blast wave is moving at almost 9 million miles per hour, and some might be traveling faster than 11 million miles per hour.
-
+There are two other red lines inside the blue cloud. Both are shorter and more translucent than the jet, but they all have one end near the bottom of the side-facing mushroom cap. The long jet exits the blue cloud at 11 on a clock face. The next longest points toward 10, and the faintest follows the path of the light blue mushroom stem. The origin of these two red tendrils is less clear, but they are likely related to gas motions in the colliding clusters.
  
 
