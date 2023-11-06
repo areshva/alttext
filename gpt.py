@@ -1,12 +1,7 @@
-import openai
+
 import os
-import json
-import unicodedata
-from tqdm import tqdm
-
-openai.api_key = os.getenv("alt-text-key") # set your API key here
-
-MODEL = "text-davinci-003" #(?)
+import base64
+import openai
 
 categories = {
     "Colors and Descriptions": {"blue", "light", "bright", "white", "black", "red", "orange", "yellow", "pink", "green", "color", "colorful", "shades"},
@@ -20,71 +15,110 @@ categories = {
     "Quantitative Terms": {"three", "more", "few", "many", "most", "some", "about", "time", "while"},
     "Other Terms": {"arrows", "key", "clock", "indicate", "field", "cloud", "clouds", "also", "hubble", "exoplanet", "used", "miri", "oval"}
 }
-INSTRUCTION = "I will provide you with some alt-texts along with the pictures they describe. rate how well each performs across all ten dimensions. for each dimension, give the alt text a floating point score, then combine all ten scores in a vector to represent the total rating of the text. Please also include scores for conciseness, accuracy, clarity and relevance."
-
-INCONTEXT_EXAMPLE = "ALt-Text: A star cluster within a nebula. The center of the image contains arcs of orange and pink gas that form a boat-like shape. One end of these arcs points to the top right of the image, while the other end points toward the bottom left. Another plume of orange and pink gas expands from the center to the top left of the image. To the right of this plume is a large cluster of white stars. There are more of these white stars and a few galaxies of different sizes spread throughout the image.\n\n Image: xxxxx \n\n Score : [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.8, 1.0, 1.0, 1.0, 1.0, 1.0]"
 
 
-def load_data(filename, n_entries = -1) -> list:
-    data = [json.loads(jline) for jline in open(filename, 'r')]
-    data = data[:n_entries]
-    return data
 
-ANIL_R3_TEST = load_data('anli_v1.0/R3/test.jsonl', 100)
+openai.api_key = "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"
 
-def make_query(sample):
-    context_str, hypothesis_str = sample['context'], sample['hypothesis']
-    query = f"{INSTRUCTION} \n\n {INCONTEXT_EXAMPLE} \n\n"
-    query += f"Context: {context_str} \n\n Hypothesis: {hypothesis_str} \n\n Relation:"
-    return query
 
-# def extract_label(output):
-#     label = None
-#     if "entailment" in output or "entails" in output or "Entailment" in output:
-#         label = "e"
-#     elif "contradiction" in output or "contradicts" in output or "Contradiction" in output:
-#         label = "c"
-#     elif "neutral" in output or "Neutral" in output:
-#         label = "n"
-#     return label
+def encode_image_to_base64(image_path):
+    with open(image_path, "rb") as image_file:
+        encoded_string = base64.b64encode(image_file.read()).decode("utf-8")
+    return encoded_string
 
-def model_inference(model, query, max_tokens=50, temperature=0, top_p=1.0):
-    response = openai.Completion.create(engine=model, prompt=query, max_tokens=max_tokens, 
-                                        temperature=temperature,
-                                        top_p=top_p)
-    output = response['choices'][0]['text']
-    pred_label = extract_label(output)
-    return pred_label
+# def get_image_data_uri(base64_string, image_path):
+#     mime_type = "image/jpg"  # Default to JPEG; adjust based on actual image type
+#     if image_path.lower().endswith(".png"):
+#         mime_type = "image/png"
+#     elif image_path.lower().endswith(".gif"):
+#         mime_type = "image/gif"
+#     return f"data:{mime_type};base64,{base64_string}"
+import ast
+#based on response structure
+def parse_scores_to_vector(response_text):
+    lines = [line.strip() for line in response_text.strip().split('\n') if line]
+    scores_vector = []
 
-def accuracy_score(ground_truths, predictions):
-    correct = 0
-    for gt, pred in zip(ground_truths, predictions):
-        if gt == pred:
-            correct += 1
-    return correct / len(ground_truths)
+    for line in lines:
+        if line.startswith('Overall Rating Vector:') or line.startswith('Vector:'):
+            # get the list from the string
+            vector_str = line.split(':', 1)[1].strip()
+            try:
+                #we safely evaluate the string representation of a list to a literal list
+                scores_vector = ast.literal_eval(vector_str)
+            except (ValueError, SyntaxError) as e:
+                print(f"Could not parse the vector: {vector_str}")
+                scores_vector = None
+        else:
+            parts = line.split(':')
+            if len(parts) == 2:
+                _, score_str = parts
+                score_cleaned = score_str.strip()
+                try:
+                    score = float(score_cleaned)
+                    scores_vector.append(score)
+                except ValueError as e:
+                    # If there's a ValueError, it might be due to the 'Vector:' line or something.
+                    # We can safely continue because the vector has already been parsed.
+                    continue
+    
+    return scores_vector
 
-def evaluateModel(model, eval_dataset):
-    ground_truths = [sample['label'] for sample in eval_dataset]
-    predictions = []
 
-    for sample in tqdm(eval_dataset):
-        query = make_query(sample)
-        output = model_inference(model, query)
-        predictions.append(output)
+def evaluate_description(text, categories):
+    
 
-    return ground_truths, predictions, accuracy_score(ground_truths, predictions)
+    prompt = (f"Categories: {categories}"
+              f"I will provide you with some alt-texts describing some pictures. rate how well each performs across all ten specified dimensions in the categories provided, in the order listed. Please also include scores for conciseness, accuracy, clarity and relevance, in the order listed." 
+              f"for each of the 14 dimensions, give the alt text a floating point score between 0 (poor) and 1 (excellent), then combine all 14 scores in a vector to represent the total rating of the text. "
+              f" Description: \"{text}\" ")
 
-groundtruth, predictions, accuracy = evaluateModel(MODEL, ANIL_R3_TEST)
 
-with open("result.txt", "w") as text_file:
-    text_file.write("gt: " + str(groundtruth) + "\npr: " + str(predictions) + "\nAccuracy: " + str(accuracy) + "\n")
+    response = openai.Completion.create(
+        model="text-davinci-003",
+        prompt=prompt,
+        temperature=0,
+        max_tokens=400  
+    )
+    print( response['choices'][0]['text'])  
+     
+    #  'response.choices[0].text' has the text response from OpenAI
+    scores_vector = parse_scores_to_vector(response.choices[0].text)
+    return scores_vector
 
-# queries = []
 
-# for sample in tqdm(ANIL_R3_TEST):
-#     query = make_query(sample)
-#     queries.append(query)
+directory = "full_pairs"
+output_file = "evaluation_scores.txt"
 
-# with open("queries.txt", "w") as text_file:
-#     for q in queries:
-#         text_file.write(q + "\n\n\n\n\n")
+
+
+with open(output_file, 'w') as file:
+    for i in range(9):  
+        pair_folder = f"pair_{i}"
+        pair_path = os.path.join(directory, pair_folder)
+
+        
+        with open(os.path.join(pair_path, 'description.txt'), 'r') as good_file:
+            good_text = good_file.read()
+
+        with open(os.path.join(pair_path, 'b_description.txt'), 'r') as bad_file:
+            bad_text = bad_file.read()
+
+        
+        good_scores_vector = evaluate_description(good_text, categories)
+        bad_scores_vector = evaluate_description(bad_text, categories)
+
+        print(good_text)
+        print(bad_text)
+
+        
+        file.write(f"Scores for {pair_folder} - Good Text: {good_scores_vector}\n")
+        file.write(f"Scores for {pair_folder} - Bad Text: {bad_scores_vector}\n")
+        file.write('\n')  
+
+print(f"Scores have been written to {output_file}")
+
+#send etha full zip of img/txt 
+#work on tailoring prompt
+#work on scraping composite imgs
+#check if api can handle img
