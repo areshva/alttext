@@ -18,7 +18,6 @@ categories = {
 
 
 
-openai.api_key = "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"
 
 
 # def encode_image_to_base64(image_path):
@@ -93,7 +92,10 @@ def evaluate_description(text, image_url,categories):
         "- Relevance: Are all parts of the description relevant to the image?\n\n"
         f"Description: \"{text}\"\n"
         f"Image URL: {image_url}\n"
-        "Present the scores in a vector format, corresponding to the order of the dimensions listed above."
+        "Provide a short justification for the scores based on the given evaluation criteria"
+        
+        "Present the scores in a vector format as Vector: [], corresponding to the order of the dimensions listed above."
+
     )
 
 
@@ -104,7 +106,7 @@ def evaluate_description(text, image_url,categories):
         model="text-davinci-003",
         prompt=prompt,
         temperature=0,
-        max_tokens=600  
+        max_tokens=1000  
     )
     print( response['choices'][0]['text'])  
      
@@ -120,7 +122,7 @@ output_file = "evaluation_scores.txt"
 
 with open(output_file, 'w') as file:
     for i, image_url in enumerate(image_urls):
-        if i >= 3:  # Stop after processing 5 images
+        if i >= 11:  # Stop after processing 5 images
             break
         pair_folder = f"pair_{i}"
         pair_path = os.path.join(directory, pair_folder)
@@ -149,3 +151,18 @@ print(f"Scores have been written to {output_file}")
 #work on scraping composite imgs
 #check if api can handle img
 #Then, I took the 'bad' PowerPoint texts that Ethat got and put those in each of the folders too. So now we have 64 sets of img-good text-bad text sets. 
+
+#DID:
+# - changed prompt to take in url (base64 was too long)
+# -altered prompts for more useful ratings
+# -note: fast facts for each image. 
+# -unable to find composite images in pieces
+#GANS, adversial 
+#working filter as a trainer.
+
+
+#run all 64
+#visual displays (14 point x axis, "saw teeth") 
+#"middle" tier test 
+#scraping fast facts
+#human readable moderation checks. 
