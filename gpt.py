@@ -18,20 +18,9 @@ categories = {
 
 
 
+openai.api_key = "adkcaldjckdckd"
 
 
-# def encode_image_to_base64(image_path):
-#     with open(image_path, "rb") as image_file:
-#         encoded_string = base64.b64encode(image_file.read()).decode("utf-8")
-#     return encoded_string
-
-# def get_image_data_uri(base64_string, image_path):
-#     mime_type = "image/jpg"  # Default to JPEG; adjust based on actual image type
-#     if image_path.lower().endswith(".png"):
-#         mime_type = "image/png"
-#     elif image_path.lower().endswith(".gif"):
-#         mime_type = "image/gif"
-#     return f"data:{mime_type};base64,{base64_string}"
 import ast
 
 #using urls insteadof encoding to base64 str
@@ -49,7 +38,7 @@ def parse_scores_to_vector(response_text):
             # get the list from the string
             vector_str = line.split(':', 1)[1].strip()
             try:
-                #we safely evaluate the string representation of a list to a literal list
+                #string representation of a list to a literal list
                 scores_vector = ast.literal_eval(vector_str)
             except (ValueError, SyntaxError) as e:
                 print(f"Could not parse the vector: {vector_str}")
@@ -63,67 +52,55 @@ def parse_scores_to_vector(response_text):
                     score = float(score_cleaned)
                     scores_vector.append(score)
                 except ValueError as e:
-                    # If there's a ValueError, it might be due to the 'Vector:' line or something.
-                    # We can safely continue because the vector has already been parsed.
+                    #might be due to the 'Vector:' line or something.
                     continue
     
     return scores_vector
 
 
-def evaluate_description(text, image_url,categories):
+
+def evaluate_description(text, image_url):
     
-
-  
-    prompt = (
-    "Please evaluate the following alt-text description in relation to the accompanying image, focusing on two aspects for the first ten dimensions: the usage of specific key terms and the adherence to the criteria detailed in each dimension. "
-    "For the remaining four dimensions, evaluate based on the descriptions provided. Provide a floating point score between 0 (poor) and 1 (excellent) for each dimension. "
-    "Combine all 14 scores in a vector to represent the total rating of the text. "
-    "\n\nEvaluation criteria and key terms for each dimension:\n"
-)
-
-    for category, terms in categories.items():
-        terms_list = ", ".join(terms)
-        prompt += f"- {category}: Evaluate based on how well the text uses terms such as {terms_list} and the criteria detailed for the dimension.\n"
-
-    prompt += (
-        "- Conciseness: Is the text concise yet informative?\n"
-        "- Accuracy: How accurate is the description in representing the image?\n"
-        "- Clarity: Is the description clear and easy to understand?\n"
-        "- Relevance: Are all parts of the description relevant to the image?\n\n"
-        f"Description: \"{text}\"\n"
-        f"Image URL: {image_url}\n"
-        "Provide a short justification for the scores based on the given evaluation criteria"
+    prompt = [
         
-        "Present the scores in a vector format as Vector: [], corresponding to the order of the dimensions listed above."
+        {
+            "role": "user",
+            "content": [
+                {"type": "text", "text": text},
+                {"type": "image_url", "image_url": {"url": image_url}},
+                {"type": "text", "text": "Please evaluate the following alt-text description in relation to the accompanying image, focusing on two aspects for the first ten dimensions: the usage of specific key terms and the adherence to the criteria detailed in each dimension. For the remaining four dimensions, evaluate based on the descriptions provided. Provide a floating point score between 0 (poor) and 1 (excellent) for each dimension. Do not give scores of N/A. Combine all 14 scores in a vector to represent the total rating of the text. Evaluation criteria and key terms for each dimension: - Colors and Descriptions: Evaluate based on how well the text uses terms such as blue, light, bright, white, black, red, orange, yellow, pink, green, color, colorful, shades. - Spatial Directions and Positions: Evaluate using terms like left, right, top, bottom, center, below, above, up, down, side. - Astronomical Terms: Assess usage of galaxies, galaxy, star, stars, telescope, planet, nebula, rings, dust, gas, core, disk, cluster, sphere, arms, area, field, outer, distant, region, central, material, thin. - Visualization Elements: Check for image, graphic, illustration, infographic, arrows, key, dots, mirror, lines, shapes, panel, sizes, oval, wispy. - Telescope and Instrument Names: Includes webb, nircam, microns, nirspec, miri. - Text and Labels: Look for labeled, titled, showing, shows, points, appear, throughout, representing. - Measurement and Data: Focus on scale, wavelength, diffraction, spectrum, brightness. - Direction and Movement: Terms like there, out, around, toward, horizontal, vertical, across, between, create, sizes. - Quantitative Terms: Use of three, more, few, many, most, some, about, time, while. - Other Terms: Includes arrows, key, clock, indicate, field, cloud, clouds, also, hubble, exoplanet, used, miri, oval. - Conciseness: Is the text concise yet informative? - Accuracy: How accurate is the description in representing the image? - Clarity: Is the description clear and easy to understand? - Relevance: Are all parts of the description relevant to the image? Provide a short justification for the scores based on the given evaluation criteria. Present the scores in a vector format as Vector: [], corresponding to the order of the dimensions listed above."},
+            ]
+        },
+        
+    ]
 
-    )
-
-
-
-   
     
-    response = openai.Completion.create(
-        model="text-davinci-003",
-        prompt=prompt,
-        temperature=0,
-        max_tokens=1000  
+    response = openai.ChatCompletion.create(
+        model="gpt-4-vision-preview",
+        messages=prompt,
+        max_tokens=550
     )
-    print( response['choices'][0]['text'])  
-     
-    #  'response.choices[0].text' has the text response from OpenAI
-    scores_vector = parse_scores_to_vector(response.choices[0].text)
+
+    last_message = response['choices'][0]['message']['content'] if response['choices'] else None
+    print(response['choices'][0]['message']['content'])
+
+    if last_message: #element by element
+        scores_vector = parse_scores_to_vector(last_message)
+    else:
+        scores_vector = None
+
     return scores_vector
 
 
 directory = "full_pairs"
-output_file = "evaluation_scores.txt"
+output_file = "evaluation_scores_full.txt"
 
 
 
 with open(output_file, 'w') as file:
     for i, image_url in enumerate(image_urls):
-        if i >= 11:  # Stop after processing 5 images
-            break
+        # if i >= 11:  # Stop after processing 10 images
+        #     break
         pair_folder = f"pair_{i}"
         pair_path = os.path.join(directory, pair_folder)
 
@@ -133,11 +110,11 @@ with open(output_file, 'w') as file:
         with open(os.path.join(pair_path, 'b_description.txt'), 'r') as bad_file:
             bad_text = bad_file.read()
 
-        good_scores_vector = evaluate_description(good_text, image_url, categories)
-        bad_scores_vector = evaluate_description(bad_text, image_url, categories)
+        good_scores_vector = evaluate_description(good_text, image_url)
+        bad_scores_vector = evaluate_description(bad_text, image_url)
 
-        print(good_text)
-        print(bad_text)
+        # print(good_text)
+        # print(bad_text)
 
         
         file.write(f"Scores for {pair_folder} - Good Text: {good_scores_vector}\n")
@@ -146,23 +123,3 @@ with open(output_file, 'w') as file:
 
 print(f"Scores have been written to {output_file}")
 
-#send etha full zip of img/txt 
-#work on tailoring prompt
-#work on scraping composite imgs
-#check if api can handle img
-#Then, I took the 'bad' PowerPoint texts that Ethat got and put those in each of the folders too. So now we have 64 sets of img-good text-bad text sets. 
-
-#DID:
-# - changed prompt to take in url (base64 was too long)
-# -altered prompts for more useful ratings
-# -note: fast facts for each image. 
-# -unable to find composite images in pieces
-#GANS, adversial 
-#working filter as a trainer.
-
-
-#run all 64
-#visual displays (14 point x axis, "saw teeth") 
-#"middle" tier test 
-#scraping fast facts
-#human readable moderation checks. 
